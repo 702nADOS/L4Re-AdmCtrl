@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/assert
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/assert/Makefile.in
+END
+assert.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/assert/assert.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/assert/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libm/powerpc/e500
+END
+Makefile.arch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libm/powerpc/e500/Makefile.arch
+END
+spe-raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libm/powerpc/e500/spe-raise.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libm/powerpc/e500/README.txt
+END

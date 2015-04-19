@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/oc/tudos/!svn/ver/63/trunk/l4
+END
+COPYING-LGPL-2.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/oc/tudos/!svn/ver/2/trunk/l4/COPYING-LGPL-2.1
+END
+COPYING-GPL-2
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/44/trunk/l4/COPYING-GPL-2
+END
+BENCHMARKING
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/oc/tudos/!svn/ver/2/trunk/l4/BENCHMARKING
+END
+LICENSING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/oc/tudos/!svn/ver/2/trunk/l4/LICENSING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/oc/tudos/!svn/ver/63/trunk/l4/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/sparc
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/sparc/sysdep-cancel.h
+END
+fork.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/sparc/fork.h
+END
+aio_cancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/sparc/aio_cancel.c
+END

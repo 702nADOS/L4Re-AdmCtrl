@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/sysdep-cancel.h
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/clone.S
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/fork.c
+END
+pt-__syscall_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/pt-__syscall_error.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/vfork.S
+END
+lowlevellock.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/lowlevellock.h
+END
+pt-longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/pt-longjmp.c
+END
+Makefile.arch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/Makefile.arch
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/pt-vfork.S
+END
+sem_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/sem_post.c
+END
+createthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/createthread.c
+END
+pthread_once.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/pthread_once.c
+END
+pthread_spin_unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/pthread_spin_unlock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/Makefile
+END

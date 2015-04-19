@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc
+END
+README_stack.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/README_stack.txt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/Makefile.in
+END
+README_malloc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/README_malloc.txt
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/COPYING
+END
+LICENSING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/LICENSING.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/Makefile.am
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/README.txt
+END
+README_win32.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/doc/README_win32.txt
+END

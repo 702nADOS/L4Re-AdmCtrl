@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ia32
+END
+jdb_kern_info-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/jdb/ia32/jdb_kern_info-ia32-amd64.cpp
+END
+jdb-int3-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/jdb/ia32/jdb-int3-ia32-ux.cpp
+END
+jdb_kern_info-pci.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/jdb/ia32/jdb_kern_info-pci.cpp
+END
+jdb-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ia32/jdb-ia32-amd64.cpp
+END
+jdb_bp-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ia32/jdb_bp-ia32-ux.cpp
+END
+jdb_bt-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/jdb/ia32/jdb_bt-ia32-ux.cpp
+END
+jdb_kern_info-mtrr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/jdb_kern_info-mtrr.cpp
+END
+jdb_io_ports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/jdb/ia32/jdb_io_ports.cpp
+END
+jdb_trace_set-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/jdb/ia32/jdb_trace_set-ia32-ux.cpp
+END
+jdb_kern_info-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/jdb/ia32/jdb_kern_info-ia32-ux.cpp
+END
+jdb-int3-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/jdb-int3-ia32-amd64.cpp
+END
+jdb_misc-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/jdb_misc-ia32-amd64.cpp
+END
+jdb_iomap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/jdb_iomap.cpp
+END
+jdb_bp-ia32-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ia32/jdb_bp-ia32-amd64.cpp
+END
+jdb-ia32-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ia32/jdb-ia32-ux.cpp
+END
+jdb_entry_frame-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/jdb/ia32/jdb_entry_frame-ia32.cpp
+END
+jdb_screen-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/jdb_screen-ia32.cpp
+END
+jdb_kern_info-dr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/jdb_kern_info-dr.cpp
+END

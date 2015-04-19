@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/15/trunk/l4/pkg/input/lib/contrib/input/serio
+END
+i8042-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/15/trunk/l4/pkg/input/lib/contrib/input/serio/i8042-io.h
+END
+ambakmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/serio/ambakmi.c
+END
+serio.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/serio/serio.c
+END
+i8042.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/serio/i8042.c
+END
+i8042.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/serio/i8042.h
+END
+libps2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/serio/libps2.c
+END

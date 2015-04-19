@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1
+END
+setjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/setjmp.c
+END
+longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/longjmp.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/vfork.c
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/crt0.S
+END
+crt1.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/crt1.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/Makefile
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/e1/syscalls.c
+END

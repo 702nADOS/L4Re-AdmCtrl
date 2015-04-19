@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc
+END
+pspinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc/pspinlock.c
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc/dl-tls.h
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc/tls.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc/pt-machine.h
+END

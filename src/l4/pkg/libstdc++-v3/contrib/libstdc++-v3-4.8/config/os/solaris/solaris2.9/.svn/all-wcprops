@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/solaris/solaris2.9
+END
+ctype_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/solaris/solaris2.9/ctype_base.h
+END
+os_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/solaris/solaris2.9/os_defines.h
+END
+ctype_configure_char.cc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/solaris/solaris2.9/ctype_configure_char.cc
+END
+ctype_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/solaris/solaris2.9/ctype_inline.h
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src
+END
+init_mem.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/init_mem.cc
+END
+ioports.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/ioports.h
+END
+init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/init.cc
+END
+init_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/init_mem.h
+END
+ioports_x86.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src/ioports_x86.cc
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/init.h
+END
+mem_man_test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/mem_man_test.cc
+END
+mem_man.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/mem_man.cc
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/support.c
+END
+mem_man_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/mem_man_test.h
+END
+memmap_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src/memmap_internal.h
+END
+mem_man.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/mem_man.h
+END
+memmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src/memmap.cc
+END
+ioports_none.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src/ioports_none.cc
+END
+io_backend.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src/io_backend.cc
+END
+memmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/memmap.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/globals.h
+END
+region.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/region.h
+END
+page_alloc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/page_alloc.cc
+END
+page_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/sigma0/server/src/page_alloc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/sigma0/server/src/Makefile
+END

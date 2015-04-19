@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra
+END
+add_gc_prefix.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/add_gc_prefix.c
+END
+AmigaOS.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/AmigaOS.c
+END
+threadlibs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/threadlibs.c
+END
+MacOS.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/MacOS.c
+END
+msvc_dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/msvc_dbg.c
+END
+if_not_there.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/if_not_there.c
+END
+setjmp_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/setjmp_t.c
+END
+if_mach.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/if_mach.c
+END
+gc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/gc.c
+END
+gcname.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/extra/gcname.c
+END

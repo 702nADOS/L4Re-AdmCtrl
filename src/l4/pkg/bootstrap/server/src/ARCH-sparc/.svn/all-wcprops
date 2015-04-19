@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-sparc
+END
+bootstrap.ld.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-sparc/bootstrap.ld.in
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-sparc/crt0.S
+END
+macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/bootstrap/server/src/ARCH-sparc/macros.h
+END
+leon_ahb.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/bootstrap/server/src/ARCH-sparc/leon_ahb.h
+END
+reboot.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/bootstrap/server/src/ARCH-sparc/reboot.cc
+END

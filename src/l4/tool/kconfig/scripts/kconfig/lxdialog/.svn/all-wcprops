@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/.gitignore
+END
+dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/dialog.h
+END
+check-lxdialog.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/58/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/check-lxdialog.sh
+END
+inputbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/inputbox.c
+END
+checklist.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/checklist.c
+END
+BIG.FAT.WARNING
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/BIG.FAT.WARNING
+END
+menubox.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/menubox.c
+END
+textbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/textbox.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/util.c
+END
+yesno.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/kconfig/lxdialog/yesno.c
+END

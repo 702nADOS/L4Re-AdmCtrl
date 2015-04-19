@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/drivers/arm
+END
+uart-sa1100.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/arm/uart-sa1100.cpp
+END
+h3xxx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/arm/h3xxx.cpp
+END
+io-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/arm/io-arm.cpp
+END
+sa1100.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/drivers/arm/sa1100.cpp
+END
+keycodes-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/arm/keycodes-arch.h
+END
+cache_func_gen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/arm/cache_func_gen.cpp
+END
+mem-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/arm/mem-arm.cpp
+END
+mmu-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/drivers/arm/mmu-arm.cpp
+END
+processor-arm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/drivers/arm/processor-arm.cpp
+END

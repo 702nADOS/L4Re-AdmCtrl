@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/mips
+END
+pspinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/mips/pspinlock.c
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/mips/tls.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/mips/pt-machine.h
+END

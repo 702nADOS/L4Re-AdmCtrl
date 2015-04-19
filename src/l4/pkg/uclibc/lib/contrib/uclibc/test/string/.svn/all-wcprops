@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string
+END
+tst-strtok.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/tst-strtok.c
+END
+stratcliff.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/stratcliff.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/Makefile.in
+END
+tester.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/tester.c
+END
+testcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/testcopy.c
+END
+bug-strncat1.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/bug-strncat1.c
+END
+tst-strxfrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/tst-strxfrm.c
+END
+bug-strcoll1.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/bug-strcoll1.c
+END
+tst-strlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/tst-strlen.c
+END
+bug-strpbrk1.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/bug-strpbrk1.c
+END
+tst-bswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/tst-bswap.c
+END
+bug-strspn1.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/bug-strspn1.c
+END
+tst-inlcall.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/tst-inlcall.c
+END
+test-ffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/test-ffs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/string/Makefile
+END

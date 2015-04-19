@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32
+END
+boot_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/boot_cpu.h
+END
+bootstrap32.ld
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/bootstrap32.ld
+END
+minilibc_support.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/minilibc_support.c
+END
+boot.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/boot.S
+END
+boot_idt.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/boot_idt.S
+END
+boot_kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/boot_kernel.c
+END
+load_elf.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/19/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/load_elf.c
+END
+boot_cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/boot_cpu.c
+END
+load_elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/load_elf.h
+END
+boot_paging.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/boot32/boot_paging.h
+END

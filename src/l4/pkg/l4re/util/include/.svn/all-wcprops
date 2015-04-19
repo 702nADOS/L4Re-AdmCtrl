@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4re/util/include
+END
+dataspace_svr
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4re/util/include/dataspace_svr
+END
+event
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re/util/include/event
+END
+counting_cap_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/util/include/counting_cap_alloc
+END
+cap_alloc_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/17/trunk/l4/pkg/l4re/util/include/cap_alloc_impl.h
+END
+name_space_svr
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4re/util/include/name_space_svr
+END
+debug
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/util/include/debug
+END
+meta
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4re/util/include/meta
+END
+region_mapping_svr
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4re/util/include/region_mapping_svr
+END
+env_ns
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4re/util/include/env_ns
+END
+kumem_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4re/util/include/kumem_alloc
+END
+object_registry
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4re/util/include/object_registry
+END
+region_mapping
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4re/util/include/region_mapping
+END
+vcon_svr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4re/util/include/vcon_svr
+END
+cap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/util/include/cap
+END
+item_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/util/include/item_alloc
+END
+bitmap_cap_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/util/include/bitmap_cap_alloc
+END
+event_buffer
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4re/util/include/event_buffer
+END
+icu_svr
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4re/util/include/icu_svr
+END
+event_svr
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/46/trunk/l4/pkg/l4re/util/include/event_svr
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4re/util/include/Makefile
+END
+cap_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/22/trunk/l4/pkg/l4re/util/include/cap_alloc
+END

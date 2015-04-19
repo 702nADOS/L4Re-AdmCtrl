@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events
+END
+evregion.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evregion.c
+END
+evgpeblk.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evgpeblk.c
+END
+evrgnini.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evrgnini.c
+END
+evxface.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evxface.c
+END
+evgpeutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evgpeutil.c
+END
+evxfgpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evxfgpe.c
+END
+evxfregn.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evxfregn.c
+END
+evxfevnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evxfevnt.c
+END
+evgpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evgpe.c
+END
+evmisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evmisc.c
+END
+evsci.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evsci.c
+END
+evglock.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evglock.c
+END
+evgpeinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evgpeinit.c
+END
+evevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/events/evevent.c
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4sys/include
+END
+__vm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/__vm
+END
+l4int.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/l4int.h
+END
+capability
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4sys/include/capability
+END
+__typeinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4sys/include/__typeinfo.h
+END
+utcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/utcb.h
+END
+debugger
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4sys/include/debugger
+END
+meta
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/meta
+END
+smart_capability
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/smart_capability
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/l4sys/include/types.h
+END
+irq
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/irq
+END
+kernel_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/kernel_object.h
+END
+consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/12/trunk/l4/pkg/l4sys/include/consts.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/19/trunk/l4/pkg/l4sys/include/ipc.h
+END
+task
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4sys/include/task
+END
+vcpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/l4sys/include/vcpu.h
+END
+scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/31/trunk/l4/pkg/l4sys/include/scheduler.h
+END
+vcon
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4sys/include/vcon
+END
+__vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/__vm.h
+END
+factory
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/factory
+END
+thread
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/thread
+END
+debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4sys/include/debugger.h
+END
+__timeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4sys/include/__timeout.h
+END
+ipc_gate
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ipc_gate
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/Makefile
+END
+__vm-vmx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4sys/include/__vm-vmx.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/err.h
+END
+icu
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/icu
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/l4sys/include/irq.h
+END
+kip
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/kip
+END
+typeinfo_svr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4sys/include/typeinfo_svr
+END
+__kip-32bit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4sys/include/__kip-32bit.h
+END
+task.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4sys/include/task.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/cache.h
+END
+vhw.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/vhw.h
+END
+vcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/l4sys/include/vcon.h
+END
+factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/factory.h
+END
+__kip-64bit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4sys/include/__kip-64bit.h
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/thread.h
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4sys/include/compiler.h
+END
+ipc_gate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ipc_gate.h
+END
+memdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/memdesc.h
+END
+__l4_fpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/12/trunk/l4/pkg/l4sys/include/__l4_fpage.h
+END
+icu.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/icu.h
+END
+__vm-svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/l4sys/include/__vm-svm.h
+END
+kip.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4sys/include/kip.h
+END
+scheduler
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/scheduler
+END

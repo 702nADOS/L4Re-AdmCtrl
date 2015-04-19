@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse
+END
+alps.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/alps.c
+END
+logips2pp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/logips2pp.c
+END
+psmouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/psmouse.h
+END
+synaptics.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/synaptics.h
+END
+psmouse-base.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/psmouse-base.c
+END
+alps.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/alps.h
+END
+logips2pp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/logips2pp.h
+END
+synaptics.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/input/lib/contrib/input/mouse/synaptics.c
+END

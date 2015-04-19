@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris
+END
+memcopy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris/memcopy.h
+END
+strncpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris/strncpy.c
+END
+strcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris/strcpy.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris/memmove.c
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris/memcpy.c
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/string/cris/memset.c
+END

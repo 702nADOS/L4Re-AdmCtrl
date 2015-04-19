@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha
+END
+timer_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/timer_gettime.c
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/sysdep-cancel.h
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/fork.c
+END
+timer_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/timer_delete.c
+END
+timer_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/timer_create.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/vfork.S
+END
+lowlevellock.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/lowlevellock.h
+END
+timer_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/timer_settime.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/clone.S
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/pt-vfork.S
+END
+sem_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/sem_post.c
+END
+pthread_once.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/pthread_once.c
+END
+createthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/createthread.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/Makefile
+END
+timer_getoverr.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/alpha/timer_getoverr.c
+END

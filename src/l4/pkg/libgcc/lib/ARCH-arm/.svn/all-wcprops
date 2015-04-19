@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/libgcc/lib/ARCH-arm
+END
+l4-atomic-64bit.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libgcc/lib/ARCH-arm/l4-atomic-64bit.c
+END
+l4-atomic.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/libgcc/lib/ARCH-arm/l4-atomic.c
+END

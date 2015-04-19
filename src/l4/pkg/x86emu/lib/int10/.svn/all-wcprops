@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/x86emu/lib/int10
+END
+int10.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/x86emu/lib/int10/int10.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/x86emu/lib/int10/Makefile
+END

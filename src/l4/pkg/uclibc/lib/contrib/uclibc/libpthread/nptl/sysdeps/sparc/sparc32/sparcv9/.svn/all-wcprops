@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/sparc32/sparcv9
+END
+pthread_spin_trylock.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/sparc32/sparcv9/pthread_spin_trylock.c
+END
+pthread_spin_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/sparc32/sparcv9/pthread_spin_lock.c
+END
+pthread_spin_unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/sparc32/sparcv9/pthread_spin_unlock.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/basic
+END
+fixdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/basic/fixdep.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/tool/kconfig/scripts/basic/.gitignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/38/trunk/kernel/fiasco/tool/kconfig/scripts/basic/Makefile
+END

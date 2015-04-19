@@ -1,0 +1,707 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib
+END
+mrand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mrand48_r.c
+END
+unlockpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/unlockpt.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/Makefile.in
+END
+strtoull_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtoull_l.c
+END
+setenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/setenv.c
+END
+__exit_handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__exit_handler.c
+END
+srand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/srand48_r.c
+END
+drand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/drand48.c
+END
+abs.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/abs.c
+END
+erand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/erand48.c
+END
+exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/exit.c
+END
+jrand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/jrand48.c
+END
+lrand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/lrand48.c
+END
+_stdlib_strto_ll_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_strto_ll_l.c
+END
+seed48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/seed48_r.c
+END
+mrand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mrand48.c
+END
+nrand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/nrand48.c
+END
+grantpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/grantpt.c
+END
+mkstemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mkstemp.c
+END
+__strtofpmax_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__strtofpmax_l.c
+END
+unix_grantpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/unix_grantpt.c
+END
+srand48.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/srand48.c
+END
+_stdlib_wcsto_l_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_wcsto_l_l.c
+END
+_stdlib_strto_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_strto_l.c
+END
+wcstold_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstold_l.c
+END
+arc4random.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/arc4random.c
+END
+__cxa_finalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__cxa_finalize.c
+END
+wctomb.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wctomb.c
+END
+mbtowc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mbtowc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/Makefile
+END
+_atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_atexit.c
+END
+wcstoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstoul.c
+END
+random_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/random_r.c
+END
+wcstombs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstombs.c
+END
+wcstoll_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstoll_l.c
+END
+gcvt.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/gcvt.c
+END
+__strtofpmax.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__strtofpmax.c
+END
+rand_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/rand_r.c
+END
+a64l.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/a64l.c
+END
+abort.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/abort.c
+END
+atoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/atoll.c
+END
+__fp_range_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__fp_range_check.c
+END
+wcstoull.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstoull.c
+END
+wcstod_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstod_l.c
+END
+wcstold.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstold.c
+END
+valloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/valloc.c
+END
+wcstof_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstof_l.c
+END
+drand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/drand48_r.c
+END
+wcstol_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstol_l.c
+END
+_stdlib_wcsto_ll.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_wcsto_ll.c
+END
+wcstoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstoll.c
+END
+__cxa_atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__cxa_atexit.c
+END
+pty-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/pty-private.h
+END
+atof.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/atof.c
+END
+jrand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/jrand48_r.c
+END
+lrand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/lrand48_r.c
+END
+mblen.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mblen.c
+END
+atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/atexit.c
+END
+nrand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/nrand48_r.c
+END
+atol.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/atol.c
+END
+canonicalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/canonicalize.c
+END
+realpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/realpath.c
+END
+_stdlib_strto_l_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_strto_l_l.c
+END
+mkdtemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mkdtemp.c
+END
+mbstowcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mbstowcs.c
+END
+wcstod.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstod.c
+END
+on_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/on_exit.c
+END
+wcstof.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstof.c
+END
+drand48-iter.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/drand48-iter.c
+END
+strtold_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtold_l.c
+END
+l64a.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/l64a.c
+END
+bsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/bsearch.c
+END
+lldiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/lldiv.c
+END
+wcstoul_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstoul_l.c
+END
+wcstol.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstol.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtoul.c
+END
+.indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/.indent.pro
+END
+strtoll_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtoll_l.c
+END
+_strtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_strtod.c
+END
+stdlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/stdlib.c
+END
+getpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/getpt.c
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/system.c
+END
+wcstoull_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/wcstoull_l.c
+END
+strtoull.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtoull.c
+END
+strtod_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtod_l.c
+END
+strtold.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtold.c
+END
+seed48.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/seed48.c
+END
+strtof_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtof_l.c
+END
+mktemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mktemp.c
+END
+llabs.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/llabs.c
+END
+ldiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/ldiv.c
+END
+_stdlib_wcsto_ll_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_wcsto_ll_l.c
+END
+_stdlib_strto_ll.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_strto_ll.c
+END
+strtol_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtol_l.c
+END
+strtoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtoll.c
+END
+__wcstofpmax_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__wcstofpmax_l.c
+END
+ptsname.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/ptsname.c
+END
+qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/qsort.c
+END
+_stdlib_wcsto_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_wcsto_l.c
+END
+posix_memalign.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/posix_memalign.c
+END
+bsd_getpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/bsd_getpt.c
+END
+_stdlib_mb_cur_max.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/_stdlib_mb_cur_max.c
+END
+strtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtod.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/random.c
+END
+strtof.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtof.c
+END
+labs.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/labs.c
+END
+div.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/div.c
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/rand.c
+END
+erand48_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/erand48_r.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtol.c
+END
+strtoul_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/strtoul_l.c
+END
+getenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/getenv.c
+END
+__wcstofpmax.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__wcstofpmax.c
+END
+mkstemp64.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/mkstemp64.c
+END
+old_atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/old_atexit.c
+END
+atoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/atoi.c
+END
+__uc_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/stdlib/__uc_malloc.c
+END

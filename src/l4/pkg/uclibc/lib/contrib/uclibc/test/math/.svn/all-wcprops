@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math
+END
+basic-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/basic-test.c
+END
+gen-libm-test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/gen-libm-test.pl
+END
+test-idouble.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-idouble.c
+END
+libm-test-ulps-ia64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-ia64
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/Makefile.in
+END
+test-fpucw.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-fpucw.c
+END
+test-ldouble.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-ldouble.c
+END
+c99_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/c99_test.c
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/fenv.h
+END
+test-ildoubl.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-ildoubl.c
+END
+libm-test-ulps-generic
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-generic
+END
+libm-test-ulps-sparc32
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-sparc32
+END
+rint.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/rint.c
+END
+libm-test-ulps-powerpc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-powerpc
+END
+libm-test-ulps-sparc64
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-sparc64
+END
+gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/gamma.c
+END
+test-float.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-float.c
+END
+tst-definitions.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/tst-definitions.c
+END
+signgam.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/signgam.c
+END
+test-double.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-double.c
+END
+libm-test.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test.inc
+END
+compile_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/compile_test.c
+END
+libm-test-ulps-i386
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-i386
+END
+test-ifloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/test-ifloat.c
+END
+libm-test-ulps-sh4
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-sh4
+END
+libm-test-ulps-s390
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-s390
+END
+ilogb.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/ilogb.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/Makefile
+END
+libm-test-ulps-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/math/libm-test-ulps-x86_64
+END

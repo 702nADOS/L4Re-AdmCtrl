@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API
+END
+setjmp.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/setjmp.SUSv4.syms
+END
+arpa_inet.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/arpa_inet.SUSv4.syms
+END
+wchar.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wchar.SUSv4.syms
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/Makefile.in
+END
+pthread-MC1.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-MC1.SUSv4.syms
+END
+pthread-TSATSS.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-TSATSS.SUSv4.syms
+END
+ctype-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/ctype-OBXSI.SUSv4.syms
+END
+time-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/time-CX.SUSv4.syms
+END
+unistd-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/unistd-XSI.SUSv4.syms
+END
+complex.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/complex.SUSv4.syms
+END
+locale-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/locale-CX.SUSv4.syms
+END
+separate.awk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/separate.awk
+END
+sys_stat.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_stat.SUSv4.syms
+END
+pthread-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-OBXSI.SUSv4.syms
+END
+setjmp-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/setjmp-CX.SUSv4.syms
+END
+stdlib-OBCX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdlib-OBCX.SUSv4.syms
+END
+wctype.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wctype.SUSv4.syms
+END
+sys_select.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_select.SUSv4.syms
+END
+utmpx.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/utmpx.SUSv4.syms
+END
+tst-API.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/tst-API.sh
+END
+sys_mman-MLR.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman-MLR.SUSv4.syms
+END
+stdlib.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdlib.SUSv4.syms
+END
+termios.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/termios.SUSv4.syms
+END
+ctype.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/ctype.SUSv4.syms
+END
+sys_resource.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_resource.SUSv4.syms
+END
+dirent-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/dirent-XSI.SUSv4.syms
+END
+time-OBCX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/time-OBCX.SUSv4.syms
+END
+wordexp.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wordexp.SUSv4.syms
+END
+strings.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/strings.SUSv4.syms
+END
+pwd.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pwd.SUSv4.syms
+END
+trace-TRI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/trace-TRI.SUSv4.syms
+END
+math-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/math-XSI.SUSv4.syms
+END
+netdb.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/netdb.SUSv4.syms
+END
+nl_types.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/nl_types.SUSv4.syms
+END
+sys_mman-TYM.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman-TYM.SUSv4.syms
+END
+unistd-SIO.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/unistd-SIO.SUSv4.syms
+END
+locale.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/locale.SUSv4.syms
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/Makefile
+END
+html2input.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/html2input.sh
+END
+sys_wait.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_wait.SUSv4.syms
+END
+stdio-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdio-OBXSI.SUSv4.syms
+END
+search.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/search.SUSv4.syms
+END
+fcntl.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/fcntl.SUSv4.syms
+END
+string.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/string.SUSv4.syms
+END
+signal.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/signal.SUSv4.syms
+END
+string-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/string-CX.SUSv4.syms
+END
+iconv.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/iconv.SUSv4.syms
+END
+pthread-TCT.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-TCT.SUSv4.syms
+END
+inttypes.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/inttypes.SUSv4.syms
+END
+syslog.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/syslog.SUSv4.syms
+END
+stdio.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdio.SUSv4.syms
+END
+time-CPT.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/time-CPT.SUSv4.syms
+END
+pthread-TSH.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-TSH.SUSv4.syms
+END
+sched.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sched.SUSv4.syms
+END
+unistd-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/unistd-OBXSI.SUSv4.syms
+END
+stdlib-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdlib-CX.SUSv4.syms
+END
+grp-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/grp-XSI.SUSv4.syms
+END
+stdlib-ADV.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdlib-ADV.SUSv4.syms
+END
+sys_time-OB.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_time-OB.SUSv4.syms
+END
+stdio-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdio-CX.SUSv4.syms
+END
+time-OB.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/time-OB.SUSv4.syms
+END
+sys_time.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_time.SUSv4.syms
+END
+trace-TRL.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/trace-TRL.SUSv4.syms
+END
+monetary.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/monetary.SUSv4.syms
+END
+time-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/time-XSI.SUSv4.syms
+END
+libgen.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/libgen.SUSv4.syms
+END
+net_if.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/net_if.SUSv4.syms
+END
+wchar-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wchar-XSI.SUSv4.syms
+END
+unistd.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/unistd.SUSv4.syms
+END
+aio.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/aio.SUSv4.syms
+END
+regex.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/regex.SUSv4.syms
+END
+sys_stat-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_stat-XSI.SUSv4.syms
+END
+wchar-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wchar-CX.SUSv4.syms
+END
+unistd-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/unistd-CX.SUSv4.syms
+END
+fcntl-ADV.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/fcntl-ADV.SUSv4.syms
+END
+ndbm.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/ndbm.SUSv4.syms
+END
+sys_sem.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_sem.SUSv4.syms
+END
+stdlib-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdlib-XSI.SUSv4.syms
+END
+semaphore.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/semaphore.SUSv4.syms
+END
+sys_msg.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_msg.SUSv4.syms
+END
+sys_shm.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_shm.SUSv4.syms
+END
+signal-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/signal-CX.SUSv4.syms
+END
+dirent.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/dirent.SUSv4.syms
+END
+dlfcn.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/dlfcn.SUSv4.syms
+END
+sys_mman.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman.SUSv4.syms
+END
+sys_socket.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_socket.SUSv4.syms
+END
+pthread.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread.SUSv4.syms
+END
+math.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/math.SUSv4.syms
+END
+strings-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/strings-XSI.SUSv4.syms
+END
+sys_uio.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_uio.SUSv4.syms
+END
+pwd-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pwd-XSI.SUSv4.syms
+END
+pthread-TPS.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-TPS.SUSv4.syms
+END
+ctype-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/ctype-CX.SUSv4.syms
+END
+sys_mman-ML.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman-ML.SUSv4.syms
+END
+fenv.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/fenv.SUSv4.syms
+END
+pthread-TSS.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-TSS.SUSv4.syms
+END
+trace.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/trace.SUSv4.syms
+END
+signal-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/signal-OBXSI.SUSv4.syms
+END
+sched-PS.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sched-PS.SUSv4.syms
+END
+pthread-RPP|TPP.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/pthread-RPP%7CTPP.SUSv4.syms
+END
+string-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/string-XSI.SUSv4.syms
+END
+spawn-PS.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/spawn-PS.SUSv4.syms
+END
+trace-TEF.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/trace-TEF.SUSv4.syms
+END
+sys_mman-SHM.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman-SHM.SUSv4.syms
+END
+signal-XSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/signal-XSI.SUSv4.syms
+END
+stropts.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stropts.SUSv4.syms
+END
+unistd-FSC.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/unistd-FSC.SUSv4.syms
+END
+stdio-OB.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/stdio-OB.SUSv4.syms
+END
+glob.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/glob.SUSv4.syms
+END
+wctype-CX.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wctype-CX.SUSv4.syms
+END
+setjmp-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/setjmp-OBXSI.SUSv4.syms
+END
+wchar-OBXSI.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/wchar-OBXSI.SUSv4.syms
+END
+sys_statvfs.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_statvfs.SUSv4.syms
+END
+grp.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/grp.SUSv4.syms
+END
+spawn.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/spawn.SUSv4.syms
+END
+sched-PS|TPS.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sched-PS%7CTPS.SUSv4.syms
+END
+time.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/time.SUSv4.syms
+END
+sys_mman-XSI|SIO.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman-XSI%7CSIO.SUSv4.syms
+END
+sys_mman-ADV.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/sys_mman-ADV.SUSv4.syms
+END
+ftw-OB.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/ftw-OB.SUSv4.syms
+END
+ftw.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/ftw.SUSv4.syms
+END
+mqueue.SUSv4.syms
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/test/API/mqueue.SUSv4.syms
+END

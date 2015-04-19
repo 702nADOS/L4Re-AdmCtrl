@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/client.c
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/mem.c
+END
+tbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/tbuf.c
+END
+kip.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/kip.c
+END
+anypage.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/anypage.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/debug.c
+END
+iomem.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libsigma0/lib/src/iomem.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libsigma0/lib/src/Makefile
+END

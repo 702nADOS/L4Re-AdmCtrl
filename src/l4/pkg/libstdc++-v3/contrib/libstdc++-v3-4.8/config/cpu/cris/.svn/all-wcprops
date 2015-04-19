@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/cpu/cris
+END
+atomicity.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/cpu/cris/atomicity.h
+END
+atomic_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/cpu/cris/atomic_word.h
+END

@@ -1,0 +1,67 @@
+10
+
+dir
+63
+http://svn.tudos.org/repos/oc/tudos/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/cpu
+http://svn.tudos.org/repos/oc/tudos
+
+
+
+2011-06-21T19:57:51.297015Z
+35
+l4check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d050ee49-bd90-4346-b210-929a50b99cfc
+
+arm
+dir
+
+powerpc
+dir
+
+cris
+dir
+
+ia64
+dir
+
+alpha
+dir
+
+m68k
+dir
+
+microblaze
+dir
+
+hppa
+dir
+
+sparc
+dir
+
+i386
+dir
+
+i486
+dir
+
+sh
+dir
+
+generic
+dir
+

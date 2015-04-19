@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/amd64
+END
+io-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/amd64/io-amd64.cpp
+END
+keycodes-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/amd64/keycodes-arch.h
+END
+mem-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/amd64/mem-amd64.cpp
+END
+processor-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/19/trunk/kernel/fiasco/src/drivers/amd64/processor-amd64.cpp
+END
+reset-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/35/trunk/kernel/fiasco/src/drivers/amd64/reset-amd64.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libkproxy/include
+END
+factory_svr
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libkproxy/include/factory_svr
+END
+scheduler_svr
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libkproxy/include/scheduler_svr
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libkproxy/include/Makefile
+END

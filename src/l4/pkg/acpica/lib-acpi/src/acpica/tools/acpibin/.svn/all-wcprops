@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/tools/acpibin
+END
+abmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/tools/acpibin/abmain.c
+END
+abcompare.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/tools/acpibin/abcompare.c
+END
+acpibin.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/tools/acpibin/acpibin.h
+END

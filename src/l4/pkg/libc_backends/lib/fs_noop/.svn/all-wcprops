@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/fs_noop
+END
+tbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/fs_noop/tbd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libc_backends/lib/fs_noop/Makefile
+END

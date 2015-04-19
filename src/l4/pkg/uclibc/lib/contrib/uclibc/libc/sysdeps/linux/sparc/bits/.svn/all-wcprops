@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits
+END
+uClibc_arch_features.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/uClibc_arch_features.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/fenv.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/endian.h
+END
+siginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/siginfo.h
+END
+typesizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/typesizes.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/msq.h
+END
+signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/signum.h
+END
+sigcontextinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/sigcontextinfo.h
+END
+kernel_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/kernel_types.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/wordsize.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/poll.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/fcntl.h
+END
+sigstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/sigstack.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/stat.h
+END
+kernel_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/kernel_stat.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/ipc.h
+END
+stackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/stackinfo.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/resource.h
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/shm.h
+END
+statvfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/statvfs.h
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/ioctls.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/syscalls.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/setjmp.h
+END
+mathdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/mathdef.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/atomic.h
+END
+sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/sigaction.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/termios.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/sem.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/sigcontext.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/mman.h
+END
+mathinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/mathinline.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/sparc/bits/socket.h
+END

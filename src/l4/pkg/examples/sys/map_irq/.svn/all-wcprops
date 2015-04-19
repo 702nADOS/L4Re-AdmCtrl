@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq
+END
+client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/client.cc
+END
+ex_map_irq.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/ex_map_irq.cfg
+END
+server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/server.cc
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/shared.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/README
+END
+ex_map_irq.list
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/examples/sys/map_irq/ex_map_irq.list
+END

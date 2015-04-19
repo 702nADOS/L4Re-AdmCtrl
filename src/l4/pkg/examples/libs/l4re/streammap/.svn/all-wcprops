@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/examples/libs/l4re/streammap
+END
+client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/examples/libs/l4re/streammap/client.cc
+END
+streammap.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/19/trunk/l4/pkg/examples/libs/l4re/streammap/streammap.cfg
+END
+server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/examples/libs/l4re/streammap/server.cc
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/examples/libs/l4re/streammap/shared.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/examples/libs/l4re/streammap/Makefile
+END

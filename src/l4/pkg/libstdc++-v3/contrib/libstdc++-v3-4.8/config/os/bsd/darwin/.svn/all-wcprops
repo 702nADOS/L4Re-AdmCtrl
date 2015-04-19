@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/bsd/darwin
+END
+ctype_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/bsd/darwin/ctype_base.h
+END
+os_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/bsd/darwin/os_defines.h
+END
+ctype_configure_char.cc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/bsd/darwin/ctype_configure_char.cc
+END
+ctype_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/bsd/darwin/ctype_inline.h
+END
+ppc-extra.ver
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/config/os/bsd/darwin/ppc-extra.ver
+END

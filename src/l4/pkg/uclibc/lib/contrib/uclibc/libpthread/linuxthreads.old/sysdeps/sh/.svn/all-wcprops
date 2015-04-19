@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads.old/sysdeps/sh
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads.old/sysdeps/sh/tls.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads.old/sysdeps/sh/pt-machine.h
+END

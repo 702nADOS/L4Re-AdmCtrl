@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std
+END
+csignal
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/csignal
+END
+cstdlib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cstdlib
+END
+cstdio
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cstdio
+END
+cstdarg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cstdarg
+END
+cctype
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cctype
+END
+cerrno
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cerrno
+END
+cmath
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cmath
+END
+ciso646
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/ciso646
+END
+ctime
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/ctime
+END
+clocale
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/clocale
+END
+cmath.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cmath.tcc
+END
+climits
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/climits
+END
+cassert
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cassert
+END
+csetjmp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/csetjmp
+END
+cwchar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cwchar
+END
+cfloat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cfloat
+END
+cstring
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cstring
+END
+cstddef
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cstddef
+END
+cwctype
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/include/c_std/cwctype
+END

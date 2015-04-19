@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher
+END
+dswstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dswstate.c
+END
+dswload2.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dswload2.c
+END
+dsopcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsopcode.c
+END
+dswexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dswexec.c
+END
+dsargs.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsargs.c
+END
+dscontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dscontrol.c
+END
+dsmethod.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsmethod.c
+END
+dsutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsutils.c
+END
+dswscope.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dswscope.c
+END
+dsmthdat.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsmthdat.c
+END
+dsfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsfield.c
+END
+dsinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsinit.c
+END
+dsobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dsobject.c
+END
+dswload.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/dispatcher/dswload.c
+END

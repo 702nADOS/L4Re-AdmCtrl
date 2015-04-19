@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/tr2
+END
+bool_set
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/tr2/bool_set
+END
+type_traits
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/tr2/type_traits
+END
+bool_set.tcc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/tr2/bool_set.tcc
+END
+dynamic_bitset
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/tr2/dynamic_bitset
+END
+ratio
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/tr2/ratio
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/generic
+END
+dl-tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/generic/dl-tls.c
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/generic/dl-tls.h
+END
+libc-tls.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/generic/libc-tls.cc
+END

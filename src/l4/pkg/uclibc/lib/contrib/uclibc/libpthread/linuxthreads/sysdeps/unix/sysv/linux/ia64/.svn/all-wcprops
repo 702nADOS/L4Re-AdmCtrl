@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/ia64
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/ia64/sysdep-cancel.h
+END
+pt-sigsuspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/ia64/pt-sigsuspend.c
+END
+fork.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/ia64/fork.h
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/ia64/vfork.S
+END
+pt-initfini.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/ia64/pt-initfini.c
+END

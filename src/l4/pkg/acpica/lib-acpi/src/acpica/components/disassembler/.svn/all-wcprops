@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler
+END
+dmresrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmresrc.c
+END
+dmwalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmwalk.c
+END
+dmutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmutils.c
+END
+dmresrcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmresrcs.c
+END
+dmnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmnames.c
+END
+dmobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmobject.c
+END
+dmbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmbuffer.c
+END
+dmopcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmopcode.c
+END
+dmresrcl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmresrcl.c
+END
+dmresrcl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/components/disassembler/dmresrcl2.c
+END

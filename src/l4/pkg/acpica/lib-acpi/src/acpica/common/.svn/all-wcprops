@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common
+END
+ahpredef.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/ahpredef.c
+END
+adisasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/adisasm.c
+END
+dmtbinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/dmtbinfo.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/getopt.c
+END
+adwalk.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/adwalk.c
+END
+adfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/adfile.c
+END
+dmextern.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/dmextern.c
+END
+dmrestag.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/dmrestag.c
+END
+dmtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/dmtable.c
+END
+dmtbdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/acpica/lib-acpi/src/acpica/common/dmtbdump.c
+END

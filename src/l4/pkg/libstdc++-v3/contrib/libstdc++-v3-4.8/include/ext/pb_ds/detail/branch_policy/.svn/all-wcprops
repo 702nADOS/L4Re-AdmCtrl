@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/branch_policy
+END
+branch_policy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/branch_policy/branch_policy.hpp
+END
+null_node_metadata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/branch_policy/null_node_metadata.hpp
+END
+traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/branch_policy/traits.hpp
+END

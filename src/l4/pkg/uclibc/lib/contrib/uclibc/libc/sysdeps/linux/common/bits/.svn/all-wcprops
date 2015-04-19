@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits
+END
+sockaddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sockaddr.h
+END
+netdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/netdb.h
+END
+initspin.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/initspin.h
+END
+sigset.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sigset.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/endian.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/fenv.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/byteswap.h
+END
+siginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/siginfo.h
+END
+ustat.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/ustat.h
+END
+huge_valf.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/huge_valf.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/msq.h
+END
+kernel_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/kernel_types.h
+END
+huge_vall.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/huge_vall.h
+END
+in.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/in.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/poll.h
+END
+mathcalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/mathcalls.h
+END
+waitstatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/waitstatus.h
+END
+uClibc_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_pthread.h
+END
+sigthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sigthread.h
+END
+cmathcalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/cmathcalls.h
+END
+kernel_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/kernel_stat.h
+END
+uClibc_charclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_charclass.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/dirent.h
+END
+utmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/utmp.h
+END
+confname.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/confname.h
+END
+statvfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/statvfs.h
+END
+kernel-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/kernel-features.h
+END
+elfclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/elfclass.h
+END
+fenvinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/fenvinline.h
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/ioctls.h
+END
+uClibc_page.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_page.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/time.h
+END
+locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/locale.h
+END
+stab.def
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/stab.def
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/setjmp.h
+END
+statfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/statfs.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/atomic.h
+END
+uClibc_local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_local_lim.h
+END
+mman-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/mman-common.h
+END
+uClibc_locale.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_locale.h
+END
+sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sigaction.h
+END
+uClibc_va_copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_va_copy.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/termios.h
+END
+uClibc_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_mutex.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sem.h
+END
+posix1_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/posix1_lim.h
+END
+environments.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/environments.h
+END
+huge_val.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/huge_val.h
+END
+local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/local_lim.h
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uio.h
+END
+uClibc_arch_features.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_arch_features.h
+END
+uClibc_fpmax.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_fpmax.h
+END
+typesizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/typesizes.h
+END
+mqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/mqueue.h
+END
+uClibc_uintmaxtostr.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_uintmaxtostr.h
+END
+signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/signum.h
+END
+getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/getopt.h
+END
+uClibc_stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_stdio.h
+END
+sigcontextinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sigcontextinfo.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/types.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/fcntl.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/wordsize.h
+END
+sigstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sigstack.h
+END
+uClibc_uwchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_uwchar.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/ipc.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/stat.h
+END
+ioctl-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/ioctl-types.h
+END
+inf.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/inf.h
+END
+utmpx.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/utmpx.h
+END
+select.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/select.h
+END
+stackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/stackinfo.h
+END
+waitflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/waitflags.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/stdio.h
+END
+posix_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/posix_opt.h
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sched.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/resource.h
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/shm.h
+END
+xopen_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/xopen_lim.h
+END
+uClibc_touplow.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_touplow.h
+END
+uClibc_clk_tck.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_clk_tck.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/syscalls.h
+END
+wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/wchar.h
+END
+uClibc_ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_ctype.h
+END
+uClibc_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_errno.h
+END
+mathdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/mathdef.h
+END
+uClibc_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/uClibc_alloc.h
+END
+nan.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/nan.h
+END
+utsname.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/utsname.h
+END
+kernel_sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/kernel_sigaction.h
+END
+stdio_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/stdio_lim.h
+END
+syscalls-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/syscalls-common.h
+END
+byteswap-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/byteswap-common.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/errno.h
+END
+posix2_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/posix2_lim.h
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/dlfcn.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/sigcontext.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/socket.h
+END
+mathinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/mathinline.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/common/bits/mman.h
+END

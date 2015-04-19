@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/oc/tudos/!svn/ver/40/trunk/l4/tool/gendep
+END
+simple-cat.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/simple-cat.c
+END
+manpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/manpage.dox
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/22/trunk/l4/tool/gendep/Doxyfile
+END
+MAINTAINER
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/MAINTAINER
+END
+WhatIsThis
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/WhatIsThis
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/COPYING
+END
+gendep.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/gendep.h
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/gendep/syscall.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/40/trunk/l4/tool/gendep/Makefile
+END
+deptrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/35/trunk/l4/tool/gendep/deptrack.c
+END

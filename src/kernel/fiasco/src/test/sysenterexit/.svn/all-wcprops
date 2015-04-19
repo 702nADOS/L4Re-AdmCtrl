@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/test/sysenterexit
+END
+sysenterexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/sysenterexit/sysenterexit.c
+END
+Modules
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/test/sysenterexit/Modules
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/sysenterexit/Makefile
+END

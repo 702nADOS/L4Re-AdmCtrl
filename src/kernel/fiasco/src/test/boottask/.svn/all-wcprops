@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/boottask
+END
+boottask-r.ld
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/boottask/boottask-r.ld
+END
+bootstrap-boottask.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/boottask/bootstrap-boottask.cc
+END

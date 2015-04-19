@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/dl-tls.h
+END
+tcb-offsets.sym
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/tcb-offsets.sym
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/tls.h
+END
+Makefile.arch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/Makefile.arch
+END
+jmpbuf-unwind.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/jmpbuf-unwind.h
+END
+pthreaddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/pthreaddef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/sparc/Makefile
+END

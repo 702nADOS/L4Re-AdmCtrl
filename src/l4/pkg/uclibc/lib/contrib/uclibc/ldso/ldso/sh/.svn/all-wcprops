@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh
+END
+dl-syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh/dl-syscalls.h
+END
+resolve.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh/resolve.S
+END
+dl-startup.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh/dl-startup.h
+END
+dl-debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh/dl-debug.h
+END
+elfinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh/elfinterp.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/sh/dl-sysdep.h
+END

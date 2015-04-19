@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libsigma0/doc
+END
+files.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libsigma0/doc/files.cfg
+END
+libsigma0.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libsigma0/doc/libsigma0.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libsigma0/doc/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ux
+END
+jdb_kern_info-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ux/jdb_kern_info-ux.cpp
+END
+jdb-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ux/jdb-ux.cpp
+END
+jdb-int3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/jdb/ux/jdb-int3.cpp
+END
+jdb_bp-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/ux/jdb_bp-ux.cpp
+END

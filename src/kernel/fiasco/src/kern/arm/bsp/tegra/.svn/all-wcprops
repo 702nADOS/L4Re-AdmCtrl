@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/tegra
+END
+outer_cache-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/outer_cache-arm-tegra.cpp
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/Kconfig
+END
+reset-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/reset-arm-tegra.cpp
+END
+platform_control-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/platform_control-arm-tegra.cpp
+END
+config-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/config-arm-tegra.cpp
+END
+uart-16550-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/uart-16550-arm-tegra.cpp
+END
+Modules
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/Modules
+END
+kernel_uart-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/kernel_uart-arm-tegra.cpp
+END
+mem_layout-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/mem_layout-arm-tegra.cpp
+END
+pic-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/pic-arm-tegra.cpp
+END
+bootstrap-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/bootstrap-arm-tegra.cpp
+END
+timer-arm-tegra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/kern/arm/bsp/tegra/timer-arm-tegra.cpp
+END

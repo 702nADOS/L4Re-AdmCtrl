@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/ia32
+END
+reset-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/35/trunk/kernel/fiasco/src/drivers/ia32/reset-ia32.cpp
+END
+io-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ia32/io-ia32.cpp
+END
+keycodes-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ia32/keycodes-arch.h
+END
+mem-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/ia32/mem-ia32.cpp
+END
+processor-ia32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/12/trunk/kernel/fiasco/src/drivers/ia32/processor-ia32.cpp
+END

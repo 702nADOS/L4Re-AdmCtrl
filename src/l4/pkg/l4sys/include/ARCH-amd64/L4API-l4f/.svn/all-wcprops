@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-amd64/L4API-l4f
+END
+ktrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-amd64/L4API-l4f/ktrace.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4sys/include/ARCH-amd64/L4API-l4f/ipc.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-amd64/L4API-l4f/segment.h
+END
+__kernel_object_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ARCH-amd64/L4API-l4f/__kernel_object_impl.h
+END
+ipc-l42-gcc3.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-amd64/L4API-l4f/ipc-l42-gcc3.h
+END

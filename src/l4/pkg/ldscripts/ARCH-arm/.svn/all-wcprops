@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/ldscripts/ARCH-arm
+END
+main_rel.ld
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/ldscripts/ARCH-arm/main_rel.ld
+END
+main_dyn.ld
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/ldscripts/ARCH-arm/main_dyn.ld
+END
+main_stat.ld
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/ldscripts/ARCH-arm/main_stat.ld
+END

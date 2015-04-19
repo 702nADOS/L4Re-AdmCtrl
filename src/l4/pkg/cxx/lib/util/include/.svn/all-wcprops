@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/include
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/include/alloc.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/include/atomic.h
+END
+l4types.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/include/l4types.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/include/string.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx/lib/util/include/Makefile
+END

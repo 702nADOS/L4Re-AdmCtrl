@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips
+END
+readahead.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/readahead.c
+END
+fpu_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/fpu_control.h
+END
+posix_fadvise.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/posix_fadvise.c
+END
+syscall_error.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/syscall_error.S
+END
+__longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/__longjmp.c
+END
+cacheflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/cacheflush.c
+END
+pread_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/pread_write.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/vfork.S
+END
+sysmips.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/sysmips.c
+END
+Makefile.arch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/Makefile.arch
+END
+_test_and_set.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/_test_and_set.c
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/sysdep.h
+END
+pipe.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/pipe.S
+END
+posix_fadvise64.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/posix_fadvise64.c
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/brk.c
+END
+setjmp_aux.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/setjmp_aux.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/clone.S
+END
+sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/sigaction.c
+END
+crti.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/crti.S
+END
+__syscall_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/__syscall_error.c
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/setjmp.S
+END
+crtn.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/crtn.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/bsd-_setjmp.S
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/bsd-setjmp.S
+END
+crt1.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/crt1.S
+END
+sgidefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/sgidefs.h
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/mmap.c
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/syscall.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux/mips/Makefile
+END

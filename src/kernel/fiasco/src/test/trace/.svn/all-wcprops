@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/trace
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/trace/trace.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/trace/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/trace/README
+END

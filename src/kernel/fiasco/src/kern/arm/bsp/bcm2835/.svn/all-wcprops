@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835
+END
+timer-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/timer-arm-bcm2835.cpp
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/Kconfig
+END
+reset-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/reset-arm-bcm2835.cpp
+END
+config-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/config-arm-bcm2835.cpp
+END
+Modules
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/Modules
+END
+kernel_uart-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/kernel_uart-arm-bcm2835.cpp
+END
+mem_layout-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/mem_layout-arm-bcm2835.cpp
+END
+pic-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/pic-arm-bcm2835.cpp
+END
+uart-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/uart-arm-bcm2835.cpp
+END
+bootstrap-arm-bcm2835.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/bcm2835/bootstrap-arm-bcm2835.cpp
+END

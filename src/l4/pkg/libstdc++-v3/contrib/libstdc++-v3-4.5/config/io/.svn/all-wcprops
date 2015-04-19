@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/io
+END
+c_io_stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/io/c_io_stdio.h
+END
+basic_file_stdio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/io/basic_file_stdio.cc
+END
+basic_file_stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/io/basic_file_stdio.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/sysdep-cancel.h
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/clone.S
+END
+pthread_barrier_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/pthread_barrier_wait.c
+END
+sem_trywait.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/sem_trywait.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/vfork.S
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/pt-vfork.S
+END
+sem_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/sem_wait.c
+END
+sem_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/sem_post.c
+END
+sem_timedwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/sparc/sparc32/sem_timedwait.c
+END

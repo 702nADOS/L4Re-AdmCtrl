@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5
+END
+ChangeLog-2009
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2009
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/Makefile.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog
+END
+linkage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/linkage.m4
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/README
+END
+configure.host
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/configure.host
+END
+crossconfig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/crossconfig.m4
+END
+fragment.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/fragment.am
+END
+ChangeLog-1998
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-1998
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config.h.in
+END
+ChangeLog-1999
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-1999
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/configure.ac
+END
+ChangeLog-2000
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2000
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/acinclude.m4
+END
+ChangeLog-2001
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2001
+END
+ChangeLog-2002
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2002
+END
+ChangeLog-2003
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2003
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/Makefile.am
+END
+ChangeLog-2004
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2004
+END
+ChangeLog-2005
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2005
+END
+ChangeLog-2006
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2006
+END
+ChangeLog-2007
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2007
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/aclocal.m4
+END
+ChangeLog-2008
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/ChangeLog-2008
+END

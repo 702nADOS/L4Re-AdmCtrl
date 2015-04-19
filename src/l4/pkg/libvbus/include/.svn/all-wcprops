@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/libvbus/include
+END
+vbus
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/libvbus/include/vbus
+END
+vbus_mcspi.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libvbus/include/vbus_mcspi.h
+END
+vbus_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/libvbus/include/vbus_pci.h
+END
+vbus_gpio-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/49/trunk/l4/pkg/libvbus/include/vbus_gpio-ops.h
+END
+vbus_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libvbus/include/vbus_i2c.h
+END
+vbus_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/49/trunk/l4/pkg/libvbus/include/vbus_gpio.h
+END
+vbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/libvbus/include/vbus.h
+END
+vbus_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/30/trunk/l4/pkg/libvbus/include/vbus_types.h
+END
+vdevice-ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libvbus/include/vdevice-ops.h
+END
+vbus_generic
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libvbus/include/vbus_generic
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libvbus/include/Makefile
+END
+vbus_gpio
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/49/trunk/l4/pkg/libvbus/include/vbus_gpio
+END

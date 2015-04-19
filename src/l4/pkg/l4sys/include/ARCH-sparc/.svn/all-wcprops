@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-sparc
+END
+consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ARCH-sparc/consts.h
+END
+l4int.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-sparc/l4int.h
+END
+linkage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ARCH-sparc/linkage.h
+END
+__kip-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/l4sys/include/ARCH-sparc/__kip-arch.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4sys/include/ARCH-sparc/atomic.h
+END
+utcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ARCH-sparc/utcb.h
+END
+kdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/49/trunk/l4/pkg/l4sys/include/ARCH-sparc/kdebug.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-sparc/cache.h
+END
+__vcpu-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-sparc/__vcpu-arch.h
+END

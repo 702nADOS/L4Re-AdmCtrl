@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4re_vfs/include
+END
+vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4re_vfs/include/vfs.h
+END
+backend
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4re_vfs/include/backend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4re_vfs/include/Makefile
+END

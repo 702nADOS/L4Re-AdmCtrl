@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux
+END
+sockios.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux/sockios.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux/param.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux/limits.h
+END

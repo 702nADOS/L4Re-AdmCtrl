@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/cpu/generic
+END
+cxxabi_tweaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/cpu/generic/cxxabi_tweaks.h
+END
+cpu_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/cpu/generic/cpu_defines.h
+END
+atomic_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/cpu/generic/atomic_word.h
+END

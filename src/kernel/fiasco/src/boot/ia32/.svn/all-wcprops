@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/56/trunk/kernel/fiasco/src/boot/ia32
+END
+boot.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/boot/ia32/boot.S
+END
+boot_idt.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/boot/ia32/boot_idt.S
+END
+Makerules.BOOT.ia32
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/56/trunk/kernel/fiasco/src/boot/ia32/Makerules.BOOT.ia32
+END
+bootstrap.ld
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/12/trunk/kernel/fiasco/src/boot/ia32/bootstrap.ld
+END
+boot_cpu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/12/trunk/kernel/fiasco/src/boot/ia32/boot_cpu.cc
+END
+boot_paging.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/boot/ia32/boot_paging.h
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/fork.c
+END
+pthread_barrier_wait.S
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_barrier_wait.S
+END
+pthread_cond_signal.S
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_cond_signal.S
+END
+pthread_rwlock_timedrdlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_rwlock_timedrdlock.S
+END
+sem_post.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/sem_post.S
+END
+pthread_once.S
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_once.S
+END
+cancellation.S
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/cancellation.S
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/clone.S
+END
+lowlevelrobustlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/lowlevelrobustlock.S
+END
+lowlevellock.S
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/lowlevellock.S
+END
+libc-cancellation.S
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/libc-cancellation.S
+END
+librt-cancellation.S
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/librt-cancellation.S
+END
+sem_wait.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/sem_wait.S
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pt-vfork.S
+END
+libc-lowlevellock.S
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/libc-lowlevellock.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/Makefile
+END
+pthread_cond_wait.S
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_cond_wait.S
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/sysdep-cancel.h
+END
+pt-__syscall_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pt-__syscall_error.c
+END
+pthread_spin_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_spin_init.c
+END
+pthread_rwlock_unlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_rwlock_unlock.S
+END
+compat-timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/compat-timer.h
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/vfork.S
+END
+lowlevellock.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/lowlevellock.h
+END
+Makefile.arch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/Makefile.arch
+END
+pthread_rwlock_wrlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_rwlock_wrlock.S
+END
+pthread_spin_unlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_spin_unlock.S
+END
+sem_timedwait.S
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/sem_timedwait.S
+END
+pthread_cond_timedwait.S
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_cond_timedwait.S
+END
+pthread_rwlock_rdlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_rwlock_rdlock.S
+END
+sem_trywait.S
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/sem_trywait.S
+END
+pthread_cond_broadcast.S
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_cond_broadcast.S
+END
+pthread_rwlock_timedwrlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_rwlock_timedwrlock.S
+END
+pthread_setaffinity.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/x86_64/pthread_setaffinity.c
+END

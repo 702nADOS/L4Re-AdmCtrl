@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux
+END
+execve.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/execve.c
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/fork.c
+END
+allocalim.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/allocalim.h
+END
+raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/raise.c
+END
+allocrtsig.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/allocrtsig.c
+END
+smp.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/smp.h
+END
+pt-sigsuspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/pt-sigsuspend.c
+END
+mq_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/mq_notify.c
+END
+fork.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/fork.h
+END
+sigwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/sigwait.c
+END
+register-atfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/register-atfork.c
+END
+jmp-unwind.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/jmp-unwind.c
+END
+unregister-atfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/unregister-atfork.c
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/.cvsignore
+END

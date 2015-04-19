@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl
+END
+cinttypes
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cinttypes
+END
+cstdlib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cstdlib
+END
+cstdio
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cstdio
+END
+cctype
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cctype
+END
+boost_sp_counted_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/boost_sp_counted_base.h
+END
+cmath
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cmath
+END
+cfenv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cfenv
+END
+utility
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/utility
+END
+type_traits
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/type_traits
+END
+cwchar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cwchar
+END
+complex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/complex
+END
+cstdint
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cstdint
+END
+regex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/regex
+END
+cwctype
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/cwctype
+END
+array
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/tr1_impl/array
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/libevent/include
+END
+event
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/libevent/include/event
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libevent/include/Makefile
+END

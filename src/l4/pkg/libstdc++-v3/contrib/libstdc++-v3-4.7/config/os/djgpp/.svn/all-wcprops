@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/djgpp
+END
+ctype_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/djgpp/ctype_base.h
+END
+os_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/djgpp/os_defines.h
+END
+ctype_configure_char.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/djgpp/ctype_configure_char.cc
+END
+ctype_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/djgpp/ctype_inline.h
+END
+error_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/djgpp/error_constants.h
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64
+END
+timer_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/timer_gettime.c
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/sysdep-cancel.h
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/clone.S
+END
+timer_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/timer_delete.c
+END
+timer_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/timer_create.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/vfork.S
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/pt-vfork.S
+END
+timer_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/timer_settime.c
+END
+timer_getoverr.c
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/powerpc/powerpc64/timer_getoverr.c
+END

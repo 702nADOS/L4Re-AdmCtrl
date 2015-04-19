@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/arm/bits
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/arm/bits/atomic.h
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/arm/bits/pthreadtypes.h
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/nptl/sysdeps/unix/sysv/linux/arm/bits/semaphore.h
+END

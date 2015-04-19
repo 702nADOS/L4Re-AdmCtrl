@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/supc++-support/src
+END
+abort.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/supc++-support/src/abort.cc
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/supc++-support/src/memset.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx/lib/supc++-support/src/Makefile
+END

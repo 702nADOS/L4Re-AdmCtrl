@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/lua/lib/contrib/etc
+END
+luavs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/luavs.bat
+END
+lua.pc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/lua/lib/contrib/etc/lua.pc
+END
+min.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/min.c
+END
+lua.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/lua.hpp
+END
+strict.lua
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/strict.lua
+END
+all.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/all.c
+END
+lua.ico
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/lua.ico
+END
+noparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/noparser.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/lua/lib/contrib/etc/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/base/include
+END
+std_exc_io
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/cxx/lib/base/include/std_exc_io
+END
+exceptions
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/base/include/exceptions
+END
+string
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/base/include/string
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/cxx/lib/base/include/Makefile
+END

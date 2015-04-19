@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/63/trunk/l4/tool/kconfig/scripts
+END
+Makefile.modpost
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/63/trunk/l4/tool/kconfig/scripts/Makefile.modpost
+END
+Makefile.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/Makefile.lib
+END
+Makefile.headersinst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/Makefile.headersinst
+END
+Makefile.host
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/tool/kconfig/scripts/Makefile.host
+END
+Makefile.modinst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/44/trunk/l4/tool/kconfig/scripts/Makefile.modinst
+END
+Makefile.build
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/58/trunk/l4/tool/kconfig/scripts/Makefile.build
+END
+Kbuild.include
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/61/trunk/l4/tool/kconfig/scripts/Kbuild.include
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/44/trunk/l4/tool/kconfig/scripts/Makefile
+END
+Makefile.clean
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/29/trunk/l4/tool/kconfig/scripts/Makefile.clean
+END

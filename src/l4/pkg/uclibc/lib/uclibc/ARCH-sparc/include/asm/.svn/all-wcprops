@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/asm
+END
+traps.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/asm/traps.h
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/asm/ioctls.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/asm/errno.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/asm/sigcontext.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/asm/socket.h
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates
+END
+globalconfig.out.ux-1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ux-1
+END
+globalconfig.out.ux-2
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.ux-2
+END
+globalconfig.out.ia32-big
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ia32-big
+END
+globalconfig.out.arm-a9-mp-1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-a9-mp-1
+END
+globalconfig.out.arm-a9-mp-2
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-a9-mp-2
+END
+Makefile.builddir.templ
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/templates/Makefile.builddir.templ
+END
+globalconfig.out.ia32-ndebug
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ia32-ndebug
+END
+globalconfig.out.arm-imx6
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-imx6
+END
+globalconfig.out.arm-t2
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-t2
+END
+globalconfig.out.arm-rv-1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-rv-1
+END
+globalconfig.out.arm-rv-2
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-rv-2
+END
+globalconfig.out.arm-rv-3
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-rv-3
+END
+globalconfig.out.arm-s3c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-s3c
+END
+globalconfig.out.arm-v6-mp-eb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-v6-mp-eb
+END
+globalconfig.out.arm-v6
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-v6
+END
+globalconfig.out.ia32-mp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ia32-mp
+END
+globalconfig.out.ux-3-noinl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ux-3-noinl
+END
+globalconfig.out.arm-v7
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-v7
+END
+globalconfig.out.amd64-1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.amd64-1
+END
+globalconfig.out.amd64-2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.amd64-2
+END
+globalconfig.out.arm-a9-mp-vexpress-1
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-a9-mp-vexpress-1
+END
+globalconfig.out.arm-a9-mp-vexpress-2
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-a9-mp-vexpress-2
+END
+globalconfig.out.arm-omap4-panda
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-omap4-panda
+END
+globalconfig.out.arm-imx51
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-imx51
+END
+globalconfig.out.arm-sa
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-sa
+END
+globalconfig.out.arm-imx35
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-imx35
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/templates/Makefile
+END
+globalconfig.out.arm-rv-4-noinl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-rv-4-noinl
+END
+globalconfig.out.ppc32-1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ppc32-1
+END
+globalconfig.out.amd64-mp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.amd64-mp
+END
+globalconfig.out.amd64-3-noinl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.amd64-3-noinl
+END
+globalconfig.out.ia32-1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ia32-1
+END
+globalconfig.out.ia32-2
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ia32-2
+END
+.gdbinit.ux
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/templates/.gdbinit.ux
+END
+globalconfig.out.arm-omap3evm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-omap3evm
+END
+globalconfig.out.arm-int-1
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-int-1
+END
+globalconfig.out.arm-pxa
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-pxa
+END
+globalconfig.out.arm-kirkwood
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-kirkwood
+END
+globalconfig.out.arm-int-2
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-int-2
+END
+globalconfig.out.sparc-1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.sparc-1
+END
+globalconfig.out.ia32-3-noinl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/templates/globalconfig.out.ia32-3-noinl
+END
+globalconfig.out.arm-imx21
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-imx21
+END
+globalconfig.out.arm-v6-mp-pb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/src/templates/globalconfig.out.arm-v6-mp-pb
+END

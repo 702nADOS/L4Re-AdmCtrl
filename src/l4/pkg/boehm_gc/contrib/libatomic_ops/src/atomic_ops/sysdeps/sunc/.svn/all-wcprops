@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/sysdeps/sunc
+END
+x86_64.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/sysdeps/sunc/x86_64.h
+END
+sparc.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/sysdeps/sunc/sparc.S
+END
+x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/sysdeps/sunc/x86.h
+END
+sparc.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/sysdeps/sunc/sparc.h
+END

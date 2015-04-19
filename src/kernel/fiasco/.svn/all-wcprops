@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/oc/tudos/!svn/ver/62/trunk/kernel/fiasco
+END
+MAINTAINER
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/MAINTAINER
+END
+BENCHMARKING
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/BENCHMARKING
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/COPYING
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/26/trunk/kernel/fiasco/README
+END

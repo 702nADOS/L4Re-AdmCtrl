@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/50/trunk/kernel/fiasco/src/test/map_util
+END
+map_util.t.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/map_util/map_util.t.cc
+END
+Modules.map_util
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/map_util/Modules.map_util
+END
+map_util.t.out.verify
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/map_util/map_util.t.out.verify
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/map_util/Makefile
+END

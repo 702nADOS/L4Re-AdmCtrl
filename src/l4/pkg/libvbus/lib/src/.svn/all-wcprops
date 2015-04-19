@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/49/trunk/l4/pkg/libvbus/lib/src
+END
+vbus_i2c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libvbus/lib/src/vbus_i2c.cc
+END
+vbus_gpio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/49/trunk/l4/pkg/libvbus/lib/src/vbus_gpio.cc
+END
+vbus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libvbus/lib/src/vbus.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libvbus/lib/src/Makefile
+END
+vbus_mcspi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libvbus/lib/src/vbus_mcspi.cc
+END
+vbus_pci.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libvbus/lib/src/vbus_pci.cc
+END

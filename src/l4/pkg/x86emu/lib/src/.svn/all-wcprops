@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/sys.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/x86emu/lib/src/LICENSE
+END
+ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/ops.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/decode.c
+END
+ops2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/ops2.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/debug.c
+END
+printk.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/x86emu/lib/src/printk.c
+END
+fgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/x86emu/lib/src/fgets.c
+END
+prim_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/prim_ops.c
+END
+fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/x86emu/lib/src/fpu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/x86emu/lib/src/Makefile
+END

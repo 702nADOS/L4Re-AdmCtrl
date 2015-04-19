@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4re_c/lib/src
+END
+namespace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/lib/src/namespace.cc
+END
+io_stuff.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/lib/src/io_stuff.cc
+END
+rm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4re_c/lib/src/rm.cc
+END
+event.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4re_c/lib/src/event.cc
+END
+log.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/lib/src/log.cc
+END
+dataspace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/lib/src/dataspace.cc
+END
+debug.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/lib/src/debug.cc
+END
+video.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/lib/src/video.cc
+END
+goos.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re_c/lib/src/goos.cc
+END
+mem_alloc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4re_c/lib/src/mem_alloc.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re_c/lib/src/Makefile
+END
+event_buffer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4re_c/lib/src/event_buffer.cc
+END
+view.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re_c/lib/src/view.cc
+END

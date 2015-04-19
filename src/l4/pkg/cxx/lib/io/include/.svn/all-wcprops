@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/cxx/lib/io/include
+END
+iostream
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/cxx/lib/io/include/iostream
+END
+l4iostream
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/cxx/lib/io/include/l4iostream
+END
+iostream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx/lib/io/include/iostream.h
+END
+l4iostream.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx/lib/io/include/l4iostream.h
+END
+basic_ostream
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/io/include/basic_ostream
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx/lib/io/include/Makefile
+END

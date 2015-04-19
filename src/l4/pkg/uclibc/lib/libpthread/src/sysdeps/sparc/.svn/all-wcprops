@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/sparc
+END
+pspinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/sparc/pspinlock.c
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/sparc/dl-tls.h
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/sparc/tls.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/sparc/pt-machine.h
+END

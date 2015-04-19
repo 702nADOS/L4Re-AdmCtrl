@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/config/os/irix
+END
+atomicity.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/config/os/irix/atomicity.h
+END
+atomic_word.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.4/config/os/irix/atomic_word.h
+END

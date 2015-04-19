@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux
+END
+ctype_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux/ctype_base.h
+END
+os_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux/os_defines.h
+END
+ctype_configure_char.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux/ctype_configure_char.cc
+END
+ctype_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux/ctype_inline.h
+END
+arm-eabi-extra.ver
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux/arm-eabi-extra.ver
+END
+ldbl-extra.ver
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.7/config/os/gnu-linux/ldbl-extra.ver
+END

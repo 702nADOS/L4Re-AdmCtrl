@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/cxx_thread
+END
+Control
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx_thread/Control
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx_thread/Makefile
+END

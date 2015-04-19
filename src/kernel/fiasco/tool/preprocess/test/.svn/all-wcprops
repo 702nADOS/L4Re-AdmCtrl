@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/preprocess/test
+END
+interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/interface.cpp
+END
+default_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/default_args.cpp
+END
+combine.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/combine.pl
+END
+extern_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/extern_c.cpp
+END
+multifile1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/multifile1.cpp
+END
+noinline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/noinline.cpp
+END
+template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/preprocess/test/template.cpp
+END
+multifile2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/multifile2.cpp
+END
+inline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/inline.cpp
+END
+comment_in_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/comment_in_string.cpp
+END
+explicit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/explicit.cpp
+END
+implement_template.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/tool/preprocess/test/implement_template.cpp
+END
+variable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/variable.cpp
+END
+line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/line.cpp
+END
+dropsection-ext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/dropsection-ext.cpp
+END
+static.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/static.cpp
+END
+dropsection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/dropsection.cpp
+END
+c-preproc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/c-preproc.cpp
+END
+operator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/operator.cpp
+END
+mapping.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/mapping.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/preprocess/test/Makefile
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/preprocess/test/parser.cpp
+END

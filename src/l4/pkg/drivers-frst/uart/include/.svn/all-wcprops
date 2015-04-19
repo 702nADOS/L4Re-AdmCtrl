@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/drivers-frst/uart/include
+END
+uart_s3c2410.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_s3c2410.h
+END
+uart_leon3.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_leon3.h
+END
+uart_dcc-v6.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_dcc-v6.h
+END
+uart_of.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_of.h
+END
+uart_sa1000.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_sa1000.h
+END
+uart_pxa.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_pxa.h
+END
+uart_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_base.h
+END
+uart_dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_dummy.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/22/trunk/l4/pkg/drivers-frst/uart/include/Makefile
+END
+uart_omap35x.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/include/uart_omap35x.h
+END
+uart_imx.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/include/uart_imx.h
+END
+uart_pl011.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/drivers-frst/uart/include/uart_pl011.h
+END

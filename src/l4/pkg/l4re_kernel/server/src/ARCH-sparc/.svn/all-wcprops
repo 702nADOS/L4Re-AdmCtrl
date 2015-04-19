@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4re_kernel/server/src/ARCH-sparc
+END
+mem_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4re_kernel/server/src/ARCH-sparc/mem_layout.h
+END
+switch_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4re_kernel/server/src/ARCH-sparc/switch_stack.h
+END

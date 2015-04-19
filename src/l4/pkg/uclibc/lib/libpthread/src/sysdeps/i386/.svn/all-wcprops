@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/i386
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/i386/sysdep-cancel.h
+END
+pspinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/i386/pspinlock.c
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/i386/dl-tls.h
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/i386/tls.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/i386/pt-machine.h
+END

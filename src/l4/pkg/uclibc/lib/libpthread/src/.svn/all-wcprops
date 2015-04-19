@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/uclibc/lib/libpthread/src
+END
+rwlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/rwlock.c
+END
+mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/mutex.c
+END
+forward.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/forward.c
+END
+internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/internals.h
+END
+so_init-x86.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/so_init-x86.S
+END
+tramp-amd64.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/tramp-amd64.S
+END
+tramp-arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/tramp-arm.S
+END
+spinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/spinlock.c
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/semaphore.c
+END
+specific.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/specific.c
+END
+spinlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/spinlock.h
+END
+pthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/pthread.c
+END
+tramp-ppc32.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/tramp-ppc32.S
+END
+ptcleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/ptcleanup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/uclibc/lib/libpthread/src/Makefile
+END
+so_init-amd64.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/so_init-amd64.S
+END
+join.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/join.c
+END
+signals.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/uclibc/lib/libpthread/src/signals.c
+END
+errno-loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/errno-loc.c
+END
+uClibc-glue.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/uClibc-glue.h
+END
+so_init-arm.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/so_init-arm.S
+END
+pthread-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/pthread-functions.h
+END
+libc_pthread_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/libc_pthread_init.c
+END
+descr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/descr.h
+END
+so_init-ppc32.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/so_init-ppc32.S
+END
+tramp-sparc.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/tramp-sparc.S
+END
+attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/attr.c
+END
+manager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/libpthread/src/manager.cc
+END
+l4.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/libpthread/src/l4.cc
+END
+l4.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/l4.h
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/errno.c
+END
+cancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/cancel.c
+END
+tramp-x86.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/tramp-x86.S
+END
+barrier.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/barrier.c
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/queue.h
+END
+restart.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/restart.h
+END
+pt-initfini.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/pt-initfini.c
+END
+so_init-sparc.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/libpthread/src/so_init-sparc.S
+END
+condvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/libpthread/src/condvar.c
+END

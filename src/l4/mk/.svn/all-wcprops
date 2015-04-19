@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/oc/tudos/!svn/ver/63/trunk/l4/mk
+END
+modes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/oc/tudos/!svn/ver/49/trunk/l4/mk/modes.inc
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/Kconfig
+END
+redo_defconfigs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/redo_defconfigs
+END
+Makeconf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/oc/tudos/!svn/ver/63/trunk/l4/mk/Makeconf
+END
+WhatIsThis
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/oc/tudos/!svn/ver/2/trunk/l4/mk/WhatIsThis
+END
+runux.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/oc/tudos/!svn/ver/2/trunk/l4/mk/runux.mk
+END
+include.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/12/trunk/l4/mk/include.mk
+END
+export_defs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/63/trunk/l4/mk/export_defs.inc
+END
+binary.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/63/trunk/l4/mk/binary.inc
+END
+pkgdeps
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/oc/tudos/!svn/ver/33/trunk/l4/mk/pkgdeps
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/oc/tudos/!svn/ver/2/trunk/l4/mk/subdir.mk
+END
+ptest
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/oc/tudos/!svn/ver/2/trunk/l4/mk/ptest
+END
+rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/oc/tudos/!svn/ver/61/trunk/l4/mk/rules.inc
+END
+rel2abs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/33/trunk/l4/mk/rel2abs.sh
+END
+makehelpers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/2/trunk/l4/mk/makehelpers.inc
+END
+doc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/oc/tudos/!svn/ver/61/trunk/l4/mk/doc.mk
+END
+lib.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/oc/tudos/!svn/ver/56/trunk/l4/mk/lib.mk
+END
+prog.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/prog.mk
+END
+config.inc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/63/trunk/l4/mk/config.inc
+END
+idl.mk
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/oc/tudos/!svn/ver/2/trunk/l4/mk/idl.mk
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/oc/tudos/!svn/ver/49/trunk/l4/mk/install.inc
+END

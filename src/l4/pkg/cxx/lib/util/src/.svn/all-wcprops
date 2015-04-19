@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/cxx/lib/util/src
+END
+ipc_error_str.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/src/ipc_error_str.cc
+END
+alloc_list.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/util/src/alloc_list.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/cxx/lib/util/src/Makefile
+END

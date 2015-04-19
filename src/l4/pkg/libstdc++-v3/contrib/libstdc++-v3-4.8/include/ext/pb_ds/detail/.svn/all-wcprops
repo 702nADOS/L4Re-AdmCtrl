@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail
+END
+types_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/types_traits.hpp
+END
+container_base_dispatch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/container_base_dispatch.hpp
+END
+cond_dealtor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/cond_dealtor.hpp
+END
+debug_map_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/debug_map_base.hpp
+END
+priority_queue_base_dispatch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/priority_queue_base_dispatch.hpp
+END
+type_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/type_utils.hpp
+END
+standard_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/standard_policies.hpp
+END
+tree_trace_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.8/include/ext/pb_ds/detail/tree_trace_base.hpp
+END

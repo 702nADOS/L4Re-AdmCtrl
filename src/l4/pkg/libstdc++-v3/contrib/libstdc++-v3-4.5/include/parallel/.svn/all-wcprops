@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel
+END
+iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/iterator.h
+END
+multiway_merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/multiway_merge.h
+END
+parallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/parallel.h
+END
+algorithm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/algorithm
+END
+find_selectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/find_selectors.h
+END
+losertree.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/losertree.h
+END
+list_partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/list_partition.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/types.h
+END
+for_each.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/for_each.h
+END
+multiseq_selection.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/multiseq_selection.h
+END
+workstealing.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/workstealing.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/base.h
+END
+par_loop.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/par_loop.h
+END
+numeric
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/numeric
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/features.h
+END
+quicksort.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/quicksort.h
+END
+algorithmfwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/algorithmfwd.h
+END
+compiletime_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/compiletime_settings.h
+END
+equally_split.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/equally_split.h
+END
+for_each_selectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/for_each_selectors.h
+END
+basic_iterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/basic_iterator.h
+END
+omp_loop_static.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/omp_loop_static.h
+END
+random_shuffle.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/random_shuffle.h
+END
+balanced_quicksort.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/balanced_quicksort.h
+END
+tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/tags.h
+END
+set_operations.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/set_operations.h
+END
+merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/merge.h
+END
+unique_copy.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/unique_copy.h
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/settings.h
+END
+multiway_mergesort.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/multiway_mergesort.h
+END
+numericfwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/numericfwd.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/search.h
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/partition.h
+END
+compatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/compatibility.h
+END
+algobase.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/algobase.h
+END
+partial_sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/partial_sum.h
+END
+find.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/find.h
+END
+algo.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/algo.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/queue.h
+END
+omp_loop.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/omp_loop.h
+END
+sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/sort.h
+END
+checkers.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/checkers.h
+END
+random_number.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/parallel/random_number.h
+END

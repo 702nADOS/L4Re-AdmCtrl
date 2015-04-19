@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/stdlib
+END
+abort.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/stdlib/abort.c
+END
+_atexit.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/stdlib/_atexit.c
+END

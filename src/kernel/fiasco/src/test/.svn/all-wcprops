@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/test
+END
+Makerules.SYSTEM_UNDER_TEST
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/Makerules.SYSTEM_UNDER_TEST
+END
+Makerules.TESTTASK
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/Makerules.TESTTASK
+END
+Makerules.WRAPPERS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/Makerules.WRAPPERS
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/Makefile
+END
+Makerules.BOOTTASK
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/Makerules.BOOTTASK
+END

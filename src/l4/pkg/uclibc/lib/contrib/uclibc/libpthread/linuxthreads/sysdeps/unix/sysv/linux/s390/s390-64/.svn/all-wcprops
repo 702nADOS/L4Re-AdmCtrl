@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/s390/s390-64
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/s390/s390-64/sysdep-cancel.h
+END
+pt-sigsuspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/s390/s390-64/pt-sigsuspend.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/s390/s390-64/vfork.S
+END
+pt-initfini.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps/unix/sysv/linux/s390/s390-64/pt-initfini.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/drivers-frst/of/include
+END
+of_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/22/trunk/l4/pkg/drivers-frst/of/include/of_dev.h
+END
+of_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/22/trunk/l4/pkg/drivers-frst/of/include/of_if.h
+END
+of.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/drivers-frst/of/include/of.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/22/trunk/l4/pkg/drivers-frst/of/include/Makefile
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/examples/misc/eb_leds
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/examples/misc/eb_leds/Makefile
+END
+eb_leds.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/examples/misc/eb_leds/eb_leds.c
+END

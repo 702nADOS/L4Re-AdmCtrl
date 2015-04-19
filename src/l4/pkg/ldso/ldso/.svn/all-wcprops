@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/ldso/ldso
+END
+syscalls.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/ldso/ldso/syscalls.cc
+END
+vfs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/ldso/ldso/vfs.cc
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/ldso/ldso/string.c
+END
+fixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/12/trunk/l4/pkg/ldso/ldso/fixup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/ldso/ldso/Makefile
+END
+dl-syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/ldso/ldso/dl-syscall.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/doc
+END
+files.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/io/doc/files.cfg
+END
+io.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/io/doc/io.dox
+END
+example.io
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/doc/example.io
+END
+acpi-pnp-ids.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/io/doc/acpi-pnp-ids.txt
+END
+design.uml2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/io/doc/design.uml2
+END
+example_pci.io
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/doc/example_pci.io
+END

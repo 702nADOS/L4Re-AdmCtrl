@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/examples/libs/l4re/c++/clntsrv_ns
+END
+client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/examples/libs/l4re/c++/clntsrv_ns/client.cc
+END
+server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/examples/libs/l4re/c++/clntsrv_ns/server.cc
+END
+shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/examples/libs/l4re/c++/clntsrv_ns/shared.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/examples/libs/l4re/c++/clntsrv_ns/Makefile
+END
+ns.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/examples/libs/l4re/c++/clntsrv_ns/ns.cfg
+END

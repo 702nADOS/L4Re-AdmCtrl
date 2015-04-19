@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/64/trunk/l4/pkg/io/config
+END
+arm-rv-eb-pbx.devs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/config/arm-rv-eb-pbx.devs
+END
+vbus-config.vbus
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/config/vbus-config.vbus
+END
+arm-rv-eb-mc.devs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/config/arm-rv-eb-mc.devs
+END
+x86-legacy.devs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/64/trunk/l4/pkg/io/config/x86-legacy.devs
+END
+arm-rv-eb.devs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/config/arm-rv-eb.devs
+END
+arm-omap3.devs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/io/config/arm-omap3.devs
+END

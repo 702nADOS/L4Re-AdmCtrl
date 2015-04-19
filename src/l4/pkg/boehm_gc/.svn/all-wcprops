@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/boehm_gc
+END
+Control
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/Control
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/README
+END

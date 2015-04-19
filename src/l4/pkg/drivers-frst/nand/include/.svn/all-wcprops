@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/drivers-frst/nand/include
+END
+transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/drivers-frst/nand/include/transfer.h
+END
+lib_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/drivers-frst/nand/include/lib_nand.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/drivers-frst/nand/include/Makefile
+END

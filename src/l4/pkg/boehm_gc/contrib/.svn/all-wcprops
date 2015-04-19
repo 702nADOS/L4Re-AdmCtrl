@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/boehm_gc/contrib
+END
+gc_cpp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/gc_cpp.cc
+END
+stubborn.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/stubborn.c
+END
+blacklst.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/blacklst.c
+END
+darwin_stop_world.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/darwin_stop_world.c
+END
+mach_dep.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mach_dep.c
+END
+callprocs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/callprocs
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/Makefile.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/depcomp
+END
+sparc_mach_dep.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/sparc_mach_dep.S
+END
+mips_sgi_mach_dep.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mips_sgi_mach_dep.s
+END
+win32_threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/win32_threads.c
+END
+configure.host
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/configure.host
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/ltmain.sh
+END
+NT_STATIC_THREADS_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/NT_STATIC_THREADS_MAKEFILE
+END
+OS2_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/OS2_MAKEFILE
+END
+NT_X64_STATIC_THREADS_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/NT_X64_STATIC_THREADS_MAKEFILE
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/configure.ac
+END
+mark.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mark.c
+END
+gc_cpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/gc_cpp.cpp
+END
+SMakefile.amiga
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/SMakefile.amiga
+END
+build_atomic_ops.sh.cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/build_atomic_ops.sh.cygwin
+END
+pcr_interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/pcr_interface.c
+END
+EMX_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/EMX_MAKEFILE
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/ChangeLog
+END
+obj_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/obj_map.c
+END
+allchblk.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/allchblk.c
+END
+PCR-Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/PCR-Makefile
+END
+gc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/gc.mak
+END
+backgraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/backgraph.c
+END
+bdw-gc.pc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/bdw-gc.pc
+END
+checksums.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/checksums.c
+END
+MacProjects.sit.hqx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/MacProjects.sit.hqx
+END
+dbg_mlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/dbg_mlc.c
+END
+bdw-gc.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/bdw-gc.pc.in
+END
+WCC_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/WCC_MAKEFILE
+END
+NT_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/NT_MAKEFILE
+END
+mallocx.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mallocx.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/configure
+END
+pthread_stop_world.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/pthread_stop_world.c
+END
+BCC_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/BCC_MAKEFILE
+END
+build_atomic_ops.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/build_atomic_ops.sh
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/compile
+END
+malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/malloc.c
+END
+NT_X64_THREADS_MAKEFILE
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/NT_X64_THREADS_MAKEFILE
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/config.guess
+END
+typd_mlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/typd_mlc.c
+END
+headers.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/headers.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/config.sub
+END
+pthread_support.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/pthread_support.c
+END
+specific.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/specific.c
+END
+alpha_mach_dep.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/alpha_mach_dep.S
+END
+digimars.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/digimars.mak
+END
+configure_atomic_ops.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/configure_atomic_ops.sh
+END
+README.QUICK
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/README.QUICK
+END
+Makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/Makefile.dj
+END
+Makefile.DLLs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/Makefile.DLLs
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/autogen.sh
+END
+gc_dlopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/gc_dlopen.c
+END
+thread_local_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/thread_local_alloc.c
+END
+ia64_save_regs_in_stack.s
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/ia64_save_regs_in_stack.s
+END
+ptr_chck.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/ptr_chck.c
+END
+gcj_mlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/gcj_mlc.c
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mkinstalldirs
+END
+finalize.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/finalize.c
+END
+Makefile.direct
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/Makefile.direct
+END
+sparc_netbsd_mach_dep.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/sparc_netbsd_mach_dep.s
+END
+os_dep.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/os_dep.c
+END
+real_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/real_malloc.c
+END
+reclaim.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/reclaim.c
+END
+mips_ultrix_mach_dep.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mips_ultrix_mach_dep.s
+END
+mark_rts.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/mark_rts.c
+END
+sparc_sunos4_mach_dep.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/sparc_sunos4_mach_dep.s
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/missing
+END
+new_hblk.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/new_hblk.c
+END
+dyn_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/dyn_load.c
+END
+rs6000_mach_dep.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/rs6000_mach_dep.s
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/alloc.c
+END
+hpux_test_and_clear.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/hpux_test_and_clear.s
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/misc.c
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/install-sh
+END

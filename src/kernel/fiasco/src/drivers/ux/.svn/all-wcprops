@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/ux
+END
+ux_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ux/ux_net.c
+END
+keycodes-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ux/keycodes-arch.h
+END
+processor-ux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ux/processor-ux.cpp
+END
+ux_con.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/ux/ux_con.c
+END

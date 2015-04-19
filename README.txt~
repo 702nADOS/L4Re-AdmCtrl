@@ -1,0 +1,13 @@
+#Admission Control build system#
+
+To use this system, run:
+	 ./run.sh, 		to run entrypoint "acstand" to make admission control work
+	 ./run.sh ENTRY 	to run entrypoint named "ENTRY" e.g. hello
+
+To build the system run (in this order):
+
+	./build-kernel.sh 	to build the kernel into obj/fiasco/ia32 (see fiasco website for further information)
+	./build-runtime.sh 	to build the unmodified runtime into obj/l4/x86 (based on bachelor_thesis from Hauner, see l4re website for further use)
+	./build-modified.sh 	to build the modified packages (libkproxy, libac, l4re_kernel, moe)
+
+Also have a look at the README.txtfile in l4-modified/pkg/libac.

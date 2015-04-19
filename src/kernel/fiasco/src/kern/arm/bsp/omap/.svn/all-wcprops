@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/omap
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/Kconfig
+END
+pic-arm-omap3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/omap/pic-arm-omap3.cpp
+END
+pic-arm-gic-omap4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/omap/pic-arm-gic-omap4.cpp
+END
+timer-arm-omap3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/timer-arm-omap3.cpp
+END
+config-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/config-arm-omap.cpp
+END
+timer_omap_1mstimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/timer_omap_1mstimer.cpp
+END
+platform_control-arm-omap4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/platform_control-arm-omap4.cpp
+END
+uart-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/uart-arm-omap.cpp
+END
+mem_layout-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/mem_layout-arm-omap.cpp
+END
+kernel_uart-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/kernel_uart-arm-omap.cpp
+END
+bootstrap-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/bootstrap-arm-omap.cpp
+END
+timer_omap_gentimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/timer_omap_gentimer.cpp
+END
+timer-arm-mptimer-omap4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/timer-arm-mptimer-omap4.cpp
+END
+Modules
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/Modules
+END
+outer_cache-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/outer_cache-arm-omap.cpp
+END
+reset-arm-omap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/omap/reset-arm-omap.cpp
+END

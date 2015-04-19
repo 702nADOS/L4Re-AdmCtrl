@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4util/include/ARCH-sparc
+END
+atomic_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4util/include/ARCH-sparc/atomic_arch.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4util/include/ARCH-sparc/irq.h
+END
+bitops_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4util/include/ARCH-sparc/bitops_arch.h
+END
+l4_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4util/include/ARCH-sparc/l4_macros.h
+END
+stack_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4util/include/ARCH-sparc/stack_impl.h
+END

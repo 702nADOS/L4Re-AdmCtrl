@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm
+END
+thumb_atomics.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/thumb_atomics.S
+END
+aeabi_read_tp.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/aeabi_read_tp.S
+END
+dl-syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/dl-syscalls.h
+END
+resolve.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/resolve.S
+END
+dl-startup.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/dl-startup.h
+END
+dl-debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/dl-debug.h
+END
+elfinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/elfinterp.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/ldso/arm/dl-sysdep.h
+END

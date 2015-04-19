@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re_c/include/video
+END
+view.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re_c/include/video/view.h
+END
+colors.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_c/include/video/colors.h
+END
+goos.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re_c/include/video/goos.h
+END

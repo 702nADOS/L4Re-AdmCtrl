@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/start/src
+END
+cxx_atexit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/start/src/cxx_atexit.cc
+END
+cxx_atexit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/start/src/cxx_atexit.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/start/src/Makefile
+END

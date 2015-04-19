@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord
+END
+cord.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/cord.am
+END
+cordbscs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/cordbscs.c
+END
+de_cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/de_cmds.h
+END
+de_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/de_win.c
+END
+cordxtra.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/cordxtra.c
+END
+cordtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/cordtest.c
+END
+de_win.RC
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/de_win.RC
+END
+de.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/de.c
+END
+de_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/de_win.h
+END
+cordprnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/cordprnt.c
+END
+de_win.ICO
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/cord/de_win.ICO
+END

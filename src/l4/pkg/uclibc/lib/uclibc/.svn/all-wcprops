@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/uclibc/lib/uclibc
+END
+target_headers.lst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/46/trunk/l4/pkg/uclibc/lib/uclibc/target_headers.lst
+END
+Make.rules
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/uclibc/lib/uclibc/Make.rules
+END
+src_rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/uclibc/lib/uclibc/src_rules.mk
+END
+contrib_files.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/uclibc/lib/uclibc/contrib_files.mk
+END
+_exit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/uclibc/lib/uclibc/_exit.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/uclibc/Makefile
+END
+make_rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc/lib/uclibc/make_rules.mk
+END
+make_diff.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/make_diff.sh
+END
+make_vars.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/uclibc/make_vars.mk
+END

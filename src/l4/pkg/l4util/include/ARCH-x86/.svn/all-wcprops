@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/l4util/include/ARCH-x86
+END
+atomic_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/atomic_arch.h
+END
+spin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/spin.h
+END
+perform.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/perform.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/irq.h
+END
+port_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/l4util/include/ARCH-x86/port_io.h
+END
+apic.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/apic.h
+END
+bitops_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/bitops_arch.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/util.h
+END
+rdtsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/17/trunk/l4/pkg/l4util/include/ARCH-x86/rdtsc.h
+END
+idt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/idt.h
+END
+l4_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/l4_macros.h
+END
+mbi_argv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/mbi_argv.h
+END
+stack_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-x86/stack_impl.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4util/include/ARCH-x86/cpu.h
+END

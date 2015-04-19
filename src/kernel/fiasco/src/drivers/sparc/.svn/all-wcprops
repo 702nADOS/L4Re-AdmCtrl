@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/drivers/sparc
+END
+kernel_uart-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/kernel_uart-sparc.cpp
+END
+mem-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/mem-sparc.cpp
+END
+processor-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/drivers/sparc/processor-sparc.cpp
+END
+keycodes-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/keycodes-arch.h
+END
+reset-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/reset-sparc.cpp
+END
+uart-leon3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/uart-leon3.cpp
+END
+sparc_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/sparc_types.cpp
+END
+io-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/sparc/io-sparc.cpp
+END

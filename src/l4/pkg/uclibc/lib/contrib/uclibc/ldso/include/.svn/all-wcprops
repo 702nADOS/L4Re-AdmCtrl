@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include
+END
+unsecvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/unsecvars.h
+END
+dl-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/dl-defs.h
+END
+dl-hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/dl-hash.h
+END
+ldso.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/ldso.h
+END
+dl-elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/dl-elf.h
+END
+dl-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/dl-string.h
+END
+ldsodefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/ldsodefs.h
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/dlfcn.h
+END
+dl-syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/contrib/uclibc/ldso/include/dl-syscall.h
+END

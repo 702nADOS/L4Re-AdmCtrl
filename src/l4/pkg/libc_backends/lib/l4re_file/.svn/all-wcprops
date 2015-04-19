@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/libc_backends/lib/l4re_file
+END
+file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/libc_backends/lib/l4re_file/file.cc
+END
+mount.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re_file/mount.cc
+END
+redirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libc_backends/lib/l4re_file/redirect.h
+END
+socket.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libc_backends/lib/l4re_file/socket.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libc_backends/lib/l4re_file/Makefile
+END
+mmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/libc_backends/lib/l4re_file/mmap.cc
+END

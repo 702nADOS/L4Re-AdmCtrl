@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4re_vfs/include/impl
+END
+ns_fs_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re_vfs/include/impl/ns_fs_impl.h
+END
+ro_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re_vfs/include/impl/ro_file.h
+END
+vfs_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4re_vfs/include/impl/vfs_impl.h
+END
+ro_file_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re_vfs/include/impl/ro_file_impl.h
+END
+vcon_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re_vfs/include/impl/vcon_stream.h
+END
+vcon_stream_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re_vfs/include/impl/vcon_stream_impl.h
+END
+ds_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_vfs/include/impl/ds_util.h
+END
+fd_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4re_vfs/include/impl/fd_store.h
+END
+simple_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_vfs/include/impl/simple_store.h
+END
+fd_store_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_vfs/include/impl/fd_store_impl.h
+END
+vfs_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_vfs/include/impl/vfs_api.h
+END
+ns_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re_vfs/include/impl/ns_fs.h
+END
+vfs_api_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re_vfs/include/impl/vfs_api_impl.h
+END

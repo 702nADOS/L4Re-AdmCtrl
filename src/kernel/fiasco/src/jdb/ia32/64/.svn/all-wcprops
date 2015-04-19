@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/jdb/ia32/64
+END
+jdb_ptab-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/jdb/ia32/64/jdb_ptab-amd64.cpp
+END
+jdb_tcb-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/64/jdb_tcb-amd64.cpp
+END
+jdb_bp-amd64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/jdb/ia32/64/jdb_bp-amd64.cpp
+END
+jdb_kern_info-bench-ia32-64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/ia32/64/jdb_kern_info-bench-ia32-64.cpp
+END

@@ -1,0 +1,67 @@
+10
+
+dir
+63
+http://svn.tudos.org/repos/oc/tudos/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/config/abi/post
+http://svn.tudos.org/repos/oc/tudos
+
+
+
+2010-06-07T19:34:50.894239Z
+2
+adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d050ee49-bd90-4346-b210-929a50b99cfc
+
+s390-linux-gnu
+dir
+
+x86_64-linux-gnu
+dir
+
+powerpc-linux-gnu
+dir
+
+mips64-linux-gnu
+dir
+
+ia64-linux-gnu
+dir
+
+alpha-linux-gnu
+dir
+
+s390x-linux-gnu
+dir
+
+hppa-linux-gnu
+dir
+
+mips-linux-gnu
+dir
+
+sparc-linux-gnu
+dir
+
+i386-linux-gnu
+dir
+
+powerpc64-linux-gnu
+dir
+
+i486-linux-gnu
+dir
+

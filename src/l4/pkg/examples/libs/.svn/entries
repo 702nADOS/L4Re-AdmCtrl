@@ -1,0 +1,89 @@
+10
+
+dir
+64
+http://svn.tudos.org/repos/oc/tudos/trunk/l4/pkg/examples/libs
+http://svn.tudos.org/repos/oc/tudos
+
+
+
+2013-12-30T15:07:05.601191Z
+61
+l4check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d050ee49-bd90-4346-b210-929a50b99cfc
+
+libirq
+dir
+
+l4re
+dir
+
+rtc
+dir
+
+libgomp
+dir
+
+inputtst
+dir
+
+shmc
+dir
+
+libpng
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-13T15:52:28.757800Z
+dc0ee11188a1e4894bd2e91130d25c06
+2010-06-07T19:34:50.894239Z
+2
+adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100
+
+libc_thread_safe
+dir
+
+libio
+dir
+

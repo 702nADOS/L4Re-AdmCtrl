@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4re/include/impl
+END
+mem_alloc_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4re/include/impl/mem_alloc_impl.h
+END
+namespace_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4re/include/impl/namespace_impl.h
+END
+rm_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4re/include/impl/rm_impl.h
+END
+dataspace_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4re/include/impl/dataspace_impl.h
+END

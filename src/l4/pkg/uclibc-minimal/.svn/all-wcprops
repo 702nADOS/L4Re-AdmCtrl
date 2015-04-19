@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/uclibc-minimal
+END
+Control
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc-minimal/Control
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc-minimal/Makefile
+END

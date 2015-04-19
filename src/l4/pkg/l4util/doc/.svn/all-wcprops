@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc
+END
+files.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc/files.cfg
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc/footer.html
+END
+l4util.dox
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc/l4util.dox
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc/header.html
+END
+l4util.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc/l4util.cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4util/doc/Makefile
+END

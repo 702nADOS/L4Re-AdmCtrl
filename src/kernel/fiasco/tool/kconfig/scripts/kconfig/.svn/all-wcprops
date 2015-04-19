@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig
+END
+zconf.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/zconf.gperf
+END
+zconf.tab.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/zconf.tab.c_shipped
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/lkc_proto.h
+END
+mconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/mconf.c
+END
+nconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/nconf.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/menu.c
+END
+images.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/images.c
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/check.sh
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/symbol.c
+END
+zconf.y
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/zconf.y
+END
+nconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/nconf.h
+END
+POTFILES.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/POTFILES.in
+END
+qconf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/qconf.cc
+END
+qconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/qconf.h
+END
+zconf.hash.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/zconf.hash.c_shipped
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/util.c
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/expr.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/confdata.c
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/list.h
+END
+zconf.lex.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/zconf.lex.c_shipped
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/expr.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/.gitignore
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/conf.c
+END
+gconf.glade
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/gconf.glade
+END
+nconf.gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/nconf.gui.c
+END
+kxgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/kxgettext.c
+END
+zconf.l
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/zconf.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/Makefile
+END
+gconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/54/trunk/kernel/fiasco/tool/kconfig/scripts/kconfig/gconf.c
+END

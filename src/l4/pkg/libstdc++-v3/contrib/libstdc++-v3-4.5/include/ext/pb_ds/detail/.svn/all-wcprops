@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail
+END
+types_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/types_traits.hpp
+END
+container_base_dispatch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/container_base_dispatch.hpp
+END
+debug_map_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/debug_map_base.hpp
+END
+cond_dealtor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/cond_dealtor.hpp
+END
+priority_queue_base_dispatch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/priority_queue_base_dispatch.hpp
+END
+constructors_destructor_fn_imps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/constructors_destructor_fn_imps.hpp
+END
+type_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/type_utils.hpp
+END
+basic_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/basic_types.hpp
+END
+tree_trace_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/tree_trace_base.hpp
+END
+standard_policies.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.5/include/ext/pb_ds/detail/standard_policies.hpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/tl/include/bits
+END
+bst_iter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/cxx/lib/tl/include/bits/bst_iter.h
+END
+list_basics.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/cxx/lib/tl/include/bits/list_basics.h
+END
+bst_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/cxx/lib/tl/include/bits/bst_base.h
+END
+type_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/cxx/lib/tl/include/bits/type_traits.h
+END
+bst.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/cxx/lib/tl/include/bits/bst.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/sysdeps/linux/common
+END
+getsid.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/sysdeps/linux/common/getsid.c
+END
+longjmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/sysdeps/linux/common/longjmp.c
+END
+getdents.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-all/libc/sysdeps/linux/common/getdents.c
+END

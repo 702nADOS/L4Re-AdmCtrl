@@ -1,0 +1,242 @@
+10
+
+dir
+63
+http://svn.tudos.org/repos/oc/tudos/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libc/sysdeps/linux
+http://svn.tudos.org/repos/oc/tudos
+
+
+
+2012-08-12T09:32:18.241007Z
+40
+l4check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d050ee49-bd90-4346-b210-929a50b99cfc
+
+arm
+dir
+
+powerpc
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-05-19T18:52:12.734638Z
+67e5ca64dbb9337d1a0049dc5c987493
+2010-06-07T19:34:50.894239Z
+2
+adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+446
+
+sh64
+dir
+
+alpha
+dir
+
+m68k
+dir
+
+i960
+dir
+
+microblaze
+dir
+
+hppa
+dir
+
+common
+dir
+
+i386
+dir
+
+nios2
+dir
+
+frv
+dir
+
+avr32
+dir
+
+README
+file
+
+
+
+
+2014-05-19T18:52:12.734638Z
+9f59256d16d509416a11ec7f6a8f3c86
+2010-06-07T19:34:50.894239Z
+2
+adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+356
+
+vax
+dir
+
+x86_64
+dir
+
+cris
+dir
+
+h8300
+dir
+
+v850
+dir
+
+xtensa
+dir
+
+Makefile.commonarch
+file
+
+
+
+
+2014-05-19T18:52:12.734638Z
+2b4c5a1d4f539dc90586633eea3664d9
+2011-02-02T19:18:45.552110Z
+29
+l4check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1354
+
+ia64
+dir
+
+e1
+dir
+
+sparc
+dir
+
+nios
+dir
+
+mips
+dir
+
+sh
+dir
+
+Makefile
+file
+
+
+
+
+2014-05-19T18:52:12.730637Z
+5878203088cfd345466e8691192772fb
+2010-06-07T19:34:50.894239Z
+2
+adam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+303
+
+bfin
+dir
+

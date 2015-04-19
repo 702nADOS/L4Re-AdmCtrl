@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/61/trunk/kernel/fiasco/tool/kconfig/scripts
+END
+Makefile.modpost
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.modpost
+END
+Makefile.lib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.lib
+END
+Makefile.headersinst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.headersinst
+END
+Makefile.host
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.host
+END
+Makefile.modinst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.modinst
+END
+Makefile.build
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.build
+END
+Kbuild.include
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/tool/kconfig/scripts/Kbuild.include
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile
+END
+Makefile.clean
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/tool/kconfig/scripts/Makefile.clean
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4re/include
+END
+rm-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re/include/rm-sys.h
+END
+log
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/log
+END
+event
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/46/trunk/l4/pkg/l4re/include/event
+END
+event-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4re/include/event-sys.h
+END
+l4aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/l4re/include/l4aux.h
+END
+log-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/log-sys.h
+END
+protocols
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/protocols
+END
+dataspace
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/dataspace
+END
+debug
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/debug
+END
+dataspace-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/dataspace-sys.h
+END
+mem_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4re/include/mem_alloc
+END
+env
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4re/include/env
+END
+error_helper
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/error_helper
+END
+parent
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/parent
+END
+mem_alloc-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/mem_alloc-sys.h
+END
+parent-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/parent-sys.h
+END
+namespace
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4re/include/namespace
+END
+namespace-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/namespace-sys.h
+END
+consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/consts.h
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/console
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4re/include/event.h
+END
+consts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4re/include/consts
+END
+elf_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/l4re/include/elf_aux.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4re/include/Makefile
+END
+cap_alloc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4re/include/cap_alloc
+END
+rm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4re/include/rm
+END
+env.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/46/trunk/l4/pkg/l4re/include/env.h
+END
+event_enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4re/include/event_enums.h
+END

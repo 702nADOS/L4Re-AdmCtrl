@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/libloader/include
+END
+stack
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libloader/include/stack
+END
+elf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/libloader/include/elf
+END
+loader
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libloader/include/loader
+END
+remote_mem
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libloader/include/remote_mem
+END
+local_app_model
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libloader/include/local_app_model
+END
+remote_app_model
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/libloader/include/remote_app_model
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libloader/include/Makefile
+END

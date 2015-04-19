@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos
+END
+timer_tick-exynos-mct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/timer_tick-exynos-mct.cpp
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/Kconfig
+END
+watchdog-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/watchdog-arm-exynos.cpp
+END
+config-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/config-arm-exynos.cpp
+END
+kernel_thread-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/kernel_thread-arm-exynos.cpp
+END
+thread-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/thread-arm-exynos.cpp
+END
+mem_layout-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/mem_layout-arm-exynos.cpp
+END
+kernel_uart-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/kernel_uart-arm-exynos.cpp
+END
+uart-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/uart-arm-exynos.cpp
+END
+pic-arm-gic-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/pic-arm-gic-exynos.cpp
+END
+bootstrap-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/bootstrap-arm-exynos.cpp
+END
+timer-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/timer-arm-exynos.cpp
+END
+ipi-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/ipi-arm-exynos.cpp
+END
+outer_cache-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/outer_cache-arm-exynos.cpp
+END
+reset-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/reset-arm-exynos.cpp
+END
+smc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/52/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/smc.cpp
+END
+timer_mct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/timer_mct.cpp
+END
+platform-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/platform-arm-exynos.cpp
+END
+platform_control-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/platform_control-arm-exynos.cpp
+END
+Modules
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/Modules
+END
+cpu-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/cpu-arm-exynos.cpp
+END
+timer-arm-generic-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/timer-arm-generic-exynos.cpp
+END
+scu-arm-exynos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/kern/arm/bsp/exynos/scu-arm-exynos.cpp
+END

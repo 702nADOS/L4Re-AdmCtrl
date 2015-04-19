@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux/bits
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux/bits/ioctls.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-sparc/include/linux/bits/socket.h
+END

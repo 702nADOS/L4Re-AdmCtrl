@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/oc/tudos/!svn/ver/62/trunk/kernel/fiasco/src
+END
+Modules.sparc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.sparc
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/Kconfig
+END
+Makerules.CXXLIB
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.CXXLIB
+END
+Makeconf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf
+END
+Makerules.LIBPERFCTR
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBPERFCTR
+END
+Circular.max.ux
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Circular.max.ux
+END
+kernel.sparc.ld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kernel.sparc.ld
+END
+Makerules.LIBGZIP
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBGZIP
+END
+BUG-HUNTING
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/BUG-HUNTING
+END
+Makerules.global
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/Makerules.global
+END
+kernel.amd64.ld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kernel.amd64.ld
+END
+Makerules.LIBREGEX
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBREGEX
+END
+Makerules.CHECKSUM
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.CHECKSUM
+END
+Makerules.BOOT
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.BOOT
+END
+Makeconf.sparc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf.sparc
+END
+Makerules.JABI
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.JABI
+END
+kernel.arm.ld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/kernel.arm.ld
+END
+README.style
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/README.style
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/.gdbinit
+END
+Makerules.LIBDISASM
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBDISASM
+END
+Makerules.LINES
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LINES
+END
+doxygen.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/doxygen.conf
+END
+Circular.max.amd64
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Circular.max.amd64
+END
+DEPS.blacklist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/DEPS.blacklist
+END
+Modules.ux
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.ux
+END
+kernel.ppc32.ld
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kernel.ppc32.ld
+END
+Makerules.UNITTEST
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makerules.UNITTEST
+END
+Circular.max.arm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Circular.max.arm
+END
+Makerules.TCBOFFSET
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.TCBOFFSET
+END
+Makerules.LIBK
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBK
+END
+kernel.ux.ld
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kernel.ux.ld
+END
+Makerules.VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/44/trunk/kernel/fiasco/src/Makerules.VERSION
+END
+Makerules.MINILIBC
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.MINILIBC
+END
+Makerules.LIBKERN
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBKERN
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makefile
+END
+Circular.max.ppc32
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Circular.max.ppc32
+END
+Makerules.SYMBOLS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.SYMBOLS
+END
+Makeconf.ia32
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf.ia32
+END
+Makerules.ABI
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.ABI
+END
+Modules.amd64
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.amd64
+END
+Modules.generic
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.generic
+END
+Circular.max.ia32
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Circular.max.ia32
+END
+Makerules.JDB
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/Makerules.JDB
+END
+Makefile.sub1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/29/trunk/kernel/fiasco/src/Makefile.sub1
+END
+Modules.arm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.arm
+END
+Makefile.sub2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/Makefile.sub2
+END
+Makerules.LIBUART
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.LIBUART
+END
+Makerules.TYPES
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.TYPES
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/README
+END
+Makeconf.amd64
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf.amd64
+END
+Modules.ppc32
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.ppc32
+END
+Makerules.CRT0
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.CRT0
+END
+Makeconf.arm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf.arm
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/TODO
+END
+Modules.ia32
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Modules.ia32
+END
+Makerules.DRIVERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.DRIVERS
+END
+Makeconf.ppc32
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf.ppc32
+END
+kernel.ia32.ld
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/kernel.ia32.ld
+END
+Makerules.GBLCFG
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/Makerules.GBLCFG
+END
+Makeconf.ux
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/Makeconf.ux
+END

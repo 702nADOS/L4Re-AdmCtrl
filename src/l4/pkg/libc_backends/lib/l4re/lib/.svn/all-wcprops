@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/libc_backends/lib/l4re/lib
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/time.c
+END
+gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/gettimeofday.c
+END
+clocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/clocks.h
+END
+nanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/nanosleep.c
+END
+clock_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/libc_backends/lib/l4re/lib/clock_settime.c
+END
+clock_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/libc_backends/lib/l4re/lib/clock_gettime.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libc_backends/lib/l4re/lib/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/libc_backends/lib/l4re/lib/Makefile
+END
+sched_yield.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/sched_yield.c
+END
+settimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/settimeofday.c
+END
+usleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/libc_backends/lib/l4re/lib/usleep.c
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc/powerpc64
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/libpthread/src/sysdeps/powerpc/powerpc64/pt-machine.h
+END

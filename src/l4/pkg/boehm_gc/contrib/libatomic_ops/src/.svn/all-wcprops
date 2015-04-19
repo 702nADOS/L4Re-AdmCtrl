@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/config.h.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/Makefile.in
+END
+atomic_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops.h
+END
+atomic_ops_stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops_stack.c
+END
+Makefile.msft
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/Makefile.msft
+END
+atomic_ops_malloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops_malloc.c
+END
+atomic_ops_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops_stack.h
+END
+atomic_ops_sysdeps.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops_sysdeps.S
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/Makefile.am
+END
+atomic_ops_malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops_malloc.h
+END
+atomic_ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops.c
+END

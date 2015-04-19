@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-sparc/L4API-l4f
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-sparc/L4API-l4f/ipc.h
+END
+syscall_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-sparc/L4API-l4f/syscall_defs.h
+END
+__kernel_object_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-sparc/L4API-l4f/__kernel_object_impl.h
+END

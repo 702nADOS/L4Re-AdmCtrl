@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/cxx/lib/ipc/include
+END
+ipc_server
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/cxx/lib/ipc/include/ipc_server
+END
+ipc_stream
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/cxx/lib/ipc/include/ipc_stream
+END
+ipc_helper
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/cxx/lib/ipc/include/ipc_helper
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/cxx/lib/ipc/include/Makefile
+END

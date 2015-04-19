@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops
+END
+generalize-small.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/generalize-small.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/Makefile.in
+END
+generalize-small.template
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/generalize-small.template
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/Makefile.am
+END
+generalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/libatomic_ops/src/atomic_ops/generalize.h
+END

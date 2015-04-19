@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/l4re
+END
+Control
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4re/Control
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/l4re/Makefile.inc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/l4re/Makefile
+END

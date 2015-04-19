@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/60/trunk/l4/pkg/l4sys/include/ARCH-x86
+END
+l4int.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-x86/l4int.h
+END
+vm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/19/trunk/l4/pkg/l4sys/include/ARCH-x86/vm
+END
+__kip-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/l4sys/include/ARCH-x86/__kip-arch.h
+END
+utcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4sys/include/ARCH-x86/utcb.h
+END
+ktrace_events.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-x86/ktrace_events.h
+END
+kdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/l4sys/include/ARCH-x86/kdebug.h
+END
+segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/l4sys/include/ARCH-x86/segment.h
+END
+syscall-invoke.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ARCH-x86/syscall-invoke.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-x86/cache.h
+END
+ipc-invoke.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/l4sys/include/ARCH-x86/ipc-invoke.h
+END
+ktrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-x86/ktrace.h
+END
+consts.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-x86/consts.h
+END
+linkage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-x86/linkage.h
+END
+vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/29/trunk/l4/pkg/l4sys/include/ARCH-x86/vm.h
+END
+__vcpu-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4sys/include/ARCH-x86/__vcpu-arch.h
+END

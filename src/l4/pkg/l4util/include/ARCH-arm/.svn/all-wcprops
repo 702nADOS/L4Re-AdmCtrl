@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4util/include/ARCH-arm
+END
+atomic_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/l4util/include/ARCH-arm/atomic_arch.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/54/trunk/l4/pkg/l4util/include/ARCH-arm/irq.h
+END
+bitops_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-arm/bitops_arch.h
+END
+l4_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-arm/l4_macros.h
+END
+mbi_argv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-arm/mbi_argv.h
+END
+stack_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-arm/stack_impl.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/include/ARCH-arm/cpu.h
+END

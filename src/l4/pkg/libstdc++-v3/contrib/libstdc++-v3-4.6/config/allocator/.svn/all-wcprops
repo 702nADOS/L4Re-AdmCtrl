@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/allocator
+END
+mt_allocator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/allocator/mt_allocator_base.h
+END
+malloc_allocator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/allocator/malloc_allocator_base.h
+END
+new_allocator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/allocator/new_allocator_base.h
+END
+pool_allocator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/allocator/pool_allocator_base.h
+END
+bitmap_allocator_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/oc/tudos/!svn/ver/35/trunk/l4/pkg/libstdc++-v3/contrib/libstdc++-v3-4.6/config/allocator/bitmap_allocator_base.h
+END

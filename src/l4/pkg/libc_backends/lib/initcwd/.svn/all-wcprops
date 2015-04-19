@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/libc_backends/lib/initcwd
+END
+initcwd.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/libc_backends/lib/initcwd/initcwd.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/libc_backends/lib/initcwd/Makefile
+END

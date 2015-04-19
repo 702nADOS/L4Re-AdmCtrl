@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/sparc
+END
+jdb_entry_frame-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/sparc/jdb_entry_frame-sparc.cpp
+END
+jdb-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/jdb/sparc/jdb-sparc.cpp
+END
+jdb_tcb-sparc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/jdb/sparc/jdb_tcb-sparc.cpp
+END

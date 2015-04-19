@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/doc
+END
+uclibc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/doc/uclibc.cfg
+END
+general.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/doc/general.dox
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/doc/Makefile
+END

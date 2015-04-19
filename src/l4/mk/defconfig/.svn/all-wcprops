@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/oc/tudos/!svn/ver/56/trunk/l4/mk/defconfig
+END
+config.amd64
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/defconfig/config.amd64
+END
+config.arm-rv
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/56/trunk/l4/mk/defconfig/config.arm-rv
+END
+config.x86
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/defconfig/config.x86
+END
+config.ppc32
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/defconfig/config.ppc32
+END
+config.sparc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/40/trunk/l4/mk/defconfig/config.sparc
+END

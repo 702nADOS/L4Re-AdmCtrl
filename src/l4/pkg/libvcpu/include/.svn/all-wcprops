@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/libvcpu/include
+END
+vcpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/libvcpu/include/vcpu.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/22/trunk/l4/pkg/libvcpu/include/Makefile
+END
+vcpu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/libvcpu/include/vcpu
+END

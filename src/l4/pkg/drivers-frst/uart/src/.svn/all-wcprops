@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/drivers-frst/uart/src
+END
+uart_leon3.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/src/uart_leon3.cc
+END
+uart_dcc-v6.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/src/uart_dcc-v6.cc
+END
+uart_of.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/src/uart_of.cc
+END
+uart_sa1000.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/56/trunk/l4/pkg/drivers-frst/uart/src/uart_sa1000.cc
+END
+uart_pxa.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/drivers-frst/uart/src/uart_pxa.cc
+END
+uart_dummy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/drivers-frst/uart/src/uart_dummy.cc
+END
+uart_omap35x.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/src/uart_omap35x.cc
+END
+uart_imx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/src/uart_imx.cc
+END
+uart_pl011.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/drivers-frst/uart/src/uart_pl011.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/src/Makefile
+END
+uart_s3c2410.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/drivers-frst/uart/src/uart_s3c2410.cc
+END

@@ -1,0 +1,76 @@
+10
+
+dir
+63
+http://svn.tudos.org/repos/oc/tudos/trunk/l4/pkg/uclibc/lib/contrib/uclibc/libpthread/linuxthreads/sysdeps
+http://svn.tudos.org/repos/oc/tudos
+
+
+
+2011-02-02T19:18:45.552110Z
+29
+l4check
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d050ee49-bd90-4346-b210-929a50b99cfc
+
+powerpc
+dir
+
+arm
+dir
+
+unix
+dir
+
+m68k
+dir
+
+alpha
+dir
+
+pthread
+dir
+
+hppa
+dir
+
+i386
+dir
+
+avr32
+dir
+
+x86_64
+dir
+
+s390
+dir
+
+cris
+dir
+
+ia64
+dir
+
+sparc
+dir
+
+mips
+dir
+
+sh
+dir
+

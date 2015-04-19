@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32
+END
+__lltostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/__lltostr.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/printf.c
+END
+vprintf_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/vprintf_backend.h
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/memmove.c
+END
+strtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/strtoul.c
+END
+__v_printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/__v_printf.c
+END
+__ltostr.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/__ltostr.c
+END
+strtol.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/strtol.c
+END
+isspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/isspace.c
+END
+vprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/vprintf.c
+END
+memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/memset.c
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/memcpy.c
+END
+__assert_fail.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/__assert_fail.c
+END
+puts.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/puts.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/Makefile
+END

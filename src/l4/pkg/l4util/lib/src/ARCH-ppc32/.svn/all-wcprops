@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/lib/src/ARCH-ppc32
+END
+backtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/lib/src/ARCH-ppc32/backtrace.c
+END
+rdtsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/l4util/lib/src/ARCH-ppc32/rdtsc.c
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/lib/libk/cxx
+END
+dlist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/lib/libk/cxx/dlist
+END
+bitfield
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/lib/libk/cxx/bitfield
+END
+hlist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/lib/libk/cxx/hlist
+END
+function
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/lib/libk/cxx/function
+END
+type_traits
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/58/trunk/kernel/fiasco/src/lib/libk/cxx/type_traits
+END
+union
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/lib/libk/cxx/union
+END
+cxx_int
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/lib/libk/cxx/cxx_int
+END
+type_list
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/lib/libk/cxx/type_list
+END
+slist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/lib/libk/cxx/slist
+END

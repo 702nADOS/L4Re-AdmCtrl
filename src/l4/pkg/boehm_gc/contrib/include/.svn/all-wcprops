@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/61/trunk/l4/pkg/boehm_gc/contrib/include
+END
+gc_allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_allocator.h
+END
+gc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc.h
+END
+include.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/include.am
+END
+gc_cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_cpp.h
+END
+gc_amiga_redirects.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_amiga_redirects.h
+END
+gc_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_version.h
+END
+gc_typed.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_typed.h
+END
+gc_backptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_backptr.h
+END
+gc_mark.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_mark.h
+END
+gc_pthread_redirects.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_pthread_redirects.h
+END
+leak_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/leak_detector.h
+END
+new_gc_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/new_gc_alloc.h
+END
+gc_gcj.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_gcj.h
+END
+gc_tiny_fl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_tiny_fl.h
+END
+gc_config_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_config_macros.h
+END
+javaxfc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/javaxfc.h
+END
+cord.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/cord.h
+END
+ec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/ec.h
+END
+gc_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/gc_inline.h
+END
+weakpointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/boehm_gc/contrib/include/weakpointer.h
+END

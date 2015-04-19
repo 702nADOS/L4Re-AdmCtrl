@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-x86/include/asm
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-x86/include/asm/ioctls.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-x86/include/asm/errno.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-x86/include/asm/sigcontext.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/uclibc/lib/uclibc/ARCH-x86/include/asm/socket.h
+END

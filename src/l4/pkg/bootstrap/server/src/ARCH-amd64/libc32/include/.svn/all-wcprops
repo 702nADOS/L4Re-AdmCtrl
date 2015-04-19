@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/stddef.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/strings.h
+END
+memcpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/memcpy.h
+END
+panic.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/panic.h
+END
+libc_backend.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/libc_backend.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/assert.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/stdlib.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/stdio.h
+END
+cdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/cdefs.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/ctype.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/stdarg.h
+END
+stdarg-cruft.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/stdarg-cruft.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/oc/tudos/!svn/ver/2/trunk/l4/pkg/bootstrap/server/src/ARCH-amd64/libc32/include/string.h
+END

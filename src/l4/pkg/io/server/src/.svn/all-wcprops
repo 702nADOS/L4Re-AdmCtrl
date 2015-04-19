@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src
+END
+cfg_scan.rl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/cfg_scan.rl
+END
+lua_glue.swg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/lua_glue.swg.cc
+END
+hw_device.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/46/trunk/l4/pkg/io/server/src/hw_device.cc
+END
+cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/cfg.h
+END
+cfg_scan.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/cfg_scan.cc
+END
+vicu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/vicu.cc
+END
+vpci_pci_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/vpci_pci_bridge.cc
+END
+position.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/position.hh
+END
+vmsi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/vmsi.cc
+END
+Make.rules
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/Make.rules
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/main.cc
+END
+vgpio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/vgpio.cc
+END
+vdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/vdevice.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/io/server/src/debug.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/44/trunk/l4/pkg/io/server/src/Makefile
+END
+cfg_parser.tab.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/cfg_parser.tab.hh
+END
+hw_root_bus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/hw_root_bus.cc
+END
+ux.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/ux.h
+END
+device.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/device.cc
+END
+ioports.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/ioports.h
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/device.h
+END
+expression.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/expression.h
+END
+vpci.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/io/server/src/vpci.h
+END
+vbus_factory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/vbus_factory.cc
+END
+vproxy_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/vproxy_dev.h
+END
+vicu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/vicu.h
+END
+cfg_scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/cfg_scanner.h
+END
+irqs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/irqs.cc
+END
+vmsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/vmsi.h
+END
+vpci_root_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/io/server/src/vpci_root_bridge.cc
+END
+cfg_parser.yy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/cfg_parser.yy
+END
+acpi_osl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/acpi_osl.cc
+END
+res.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/res.h
+END
+hw_root_bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/hw_root_bus.h
+END
+ux.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/ux.cc
+END
+tagged_parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/io/server/src/tagged_parameter.h
+END
+phys_space.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/33/trunk/l4/pkg/io/server/src/phys_space.cc
+END
+hw_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/io/server/src/hw_device.h
+END
+server.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/server.cc
+END
+cfg_scanner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/cfg_scanner.cc
+END
+vbus_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/vbus_factory.h
+END
+lua_glue.swg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/lua_glue.swg
+END
+vpci_virtual_root.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/io/server/src/vpci_virtual_root.cc
+END
+cfg_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/cfg_parser.h
+END
+pci_iomem_root_bridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/pci_iomem_root_bridge.cc
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/40/trunk/l4/pkg/io/server/src/irqs.h
+END
+lua_typemap.i
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/lua_typemap.i
+END
+vdevice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/vdevice.cc
+END
+resource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/resource.cc
+END
+hw_msi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/hw_msi.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/resource.h
+END
+gpio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/gpio.cc
+END
+lua_glue.swg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/lua_glue.swg.h
+END
+phys_space.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/phys_space.h
+END
+vpci.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/58/trunk/l4/pkg/io/server/src/vpci.cc
+END
+lua_typeinfo.i
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/lua_typeinfo.i
+END
+vproxy_dev.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/vproxy_dev.cc
+END
+server.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/server.h
+END
+gpio
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/gpio
+END
+vpci_pci_bridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/io/server/src/vpci_pci_bridge.h
+END
+pci.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/pci.cc
+END
+__acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/__acpi.h
+END
+acpi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/acpi.cc
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/pci.h
+END
+stack.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/stack.hh
+END
+vbus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/vbus.cc
+END
+cfg_parser.tab.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/cfg_parser.tab.cc
+END
+vbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/51/trunk/l4/pkg/io/server/src/vbus.h
+END
+location.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/oc/tudos/!svn/ver/42/trunk/l4/pkg/io/server/src/location.hh
+END
+debug.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/38/trunk/l4/pkg/io/server/src/debug.cc
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/11/trunk/l4/pkg/io/server/src/main.h
+END
+res.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/oc/tudos/!svn/ver/63/trunk/l4/pkg/io/server/src/res.cc
+END

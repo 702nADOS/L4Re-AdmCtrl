@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/drivers/ppc32
+END
+uart-mpc52xx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/ppc32/uart-mpc52xx.cpp
+END
+kernel_uart-ppc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/drivers/ppc32/kernel_uart-ppc32.cpp
+END
+mem-ppc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ppc32/mem-ppc32.cpp
+END
+processor-ppc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/oc/tudos/!svn/ver/51/trunk/kernel/fiasco/src/drivers/ppc32/processor-ppc32.cpp
+END
+keycodes-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ppc32/keycodes-arch.h
+END
+ppc_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ppc32/ppc_types.cpp
+END
+reset-ppc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/35/trunk/kernel/fiasco/src/drivers/ppc32/reset-ppc32.cpp
+END
+io-ppc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ppc32/io-ppc32.cpp
+END
+uart-of.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/drivers/ppc32/uart-of.cpp
+END

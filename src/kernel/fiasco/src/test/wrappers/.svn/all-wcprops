@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/oc/tudos/!svn/ver/50/trunk/kernel/fiasco/src/test/wrappers
+END
+fake_kmem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/fake_kmem.cpp
+END
+unix_aligned_alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/unix_aligned_alloc.cpp
+END
+simple_lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/simple_lock.cpp
+END
+fake_boot_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/fake_boot_info.cpp
+END
+fake_helping_lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/oc/tudos/!svn/ver/42/trunk/kernel/fiasco/src/test/wrappers/fake_helping_lock.cpp
+END
+unix_slab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/unix_slab.cpp
+END
+fake_kdb_ke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/fake_kdb_ke.cpp
+END
+fake_checksum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/fake_checksum.cpp
+END
+symbols.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/symbols.c
+END
+Modules.wrappers
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/oc/tudos/!svn/ver/40/trunk/kernel/fiasco/src/test/wrappers/Modules.wrappers
+END
+fake_globals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/fake_globals.cpp
+END
+fake_kmem_alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/fake_kmem_alloc.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/oc/tudos/!svn/ver/2/trunk/kernel/fiasco/src/test/wrappers/Makefile
+END

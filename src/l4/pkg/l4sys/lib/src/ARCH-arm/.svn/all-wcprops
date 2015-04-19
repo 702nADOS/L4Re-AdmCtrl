@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/oc/tudos/!svn/ver/26/trunk/l4/pkg/l4sys/lib/src/ARCH-arm
+END
+atomic_ops_s.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/oc/tudos/!svn/ver/26/trunk/l4/pkg/l4sys/lib/src/ARCH-arm/atomic_ops_s.S
+END
